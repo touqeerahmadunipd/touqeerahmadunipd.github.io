@@ -13,6 +13,11 @@ Previously, I was a Postdoctoral Research Fellow at the Institut Denis Poisson, 
 I earned my PhD in Statistical Sciences, with a Doctor Europaeus title, from the University of Padova, Italy. My doctoral research focused on "On the modeling of discrete extreme values".
 
 
+**Research Interest**
+
+My research focuses on the stochastic and statistical modeling of complex natural and environmental processes, with particular emphasis on the space-time dependence of extreme events. I am also interested in statistical learning, including the development and application of modern machine learning methods for high-dimensional data analysis, dimension reduction, and the treatment of imbalanced or incomplete datasets.
+
+======
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
