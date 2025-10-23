@@ -26,7 +26,7 @@ author:
   avatar           : "profile1.png"
   name             : "Touqeer Ahmad"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "DSTrain-MSCA Postdoctoral Research Fellow"
   location         : "Oslo, Norway"
   employer         : "University of Oslo"
   uri              : # URL
@@ -40,8 +40,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-2046-6268"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Touqeer-Ahmad?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
