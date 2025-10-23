@@ -21,11 +21,8 @@ My work lies at the intersection of stochastic processes, statistical modeling, 
 I am particularly interested in:
 
 - Modeling and analysis of spatiotemporal dependence in extreme events
-
 - Stochastic modeling of complex natural and environmental systems
-
 - Statistical learning methods for high-dimensional, imbalanced, or incomplete datasets
-
 - Applications of dimension reduction and data-driven approaches in environmental and climate research
 
 
