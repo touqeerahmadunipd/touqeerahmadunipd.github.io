@@ -1,27 +1,5 @@
 ---
 ---
-.news-ticker {
-  overflow: hidden;
-  white-space: nowrap;
-  background: #111;
-  color: #fff;
-  padding: 10px;
-  font-weight: bold;
-  font-size: 1rem;
-}
-
-.news-items {
-  display: inline-block;
-  padding-left: 100%;
-  animation: scroll-left 20s linear infinite;
-}
-
-@keyframes scroll-left {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-100%); }
-}
-
-##
 
 /*
  * This file controls what is imported from /_sass
@@ -63,3 +41,25 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+.news-ticker {
+  overflow: hidden;
+  white-space: nowrap;
+  background: #111;
+  color: #fff;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.news-items {
+  display: inline-block;
+  padding-left: 100%;
+  animation: scroll-left 20s linear infinite;
+}
+
+@keyframes scroll-left {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
