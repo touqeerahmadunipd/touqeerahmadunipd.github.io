@@ -7,6 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+
+
+**About Me**
+I am a DSTrain – MSCA (Marie Skłodowska-Curie Actions) Research Fellow in the Department of Mathematics at the University of Oslo, Norway. My current research focuses on statistical methods for high-dimensional and complex data.
+
+Previously, I was a Postdoctoral Research Fellow at the Institut Denis Poisson, University of Orléans, France (May–October 2025), where I worked on handling missing data in high-dimensional environmental datasets. Before that, I held a postdoctoral position at ENSAI, France, focusing on dimension reduction and imbalanced data classification.
+
+I earned my PhD in Statistical Sciences, with a Doctor Europaeus title, from the University of Padova, Italy. My doctoral research explored the modeling of discrete extreme value problems.
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
