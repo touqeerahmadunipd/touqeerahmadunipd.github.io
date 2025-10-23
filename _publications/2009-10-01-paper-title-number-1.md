@@ -1,5 +1,6 @@
 ---
-title: "Paper Title Number 1"
+title: "Concentration and excess risk bounds for imbalanced
+classification with synthetic oversampling"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
