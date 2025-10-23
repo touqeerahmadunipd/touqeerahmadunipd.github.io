@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! This Touqeer Ahmad"
+title: "Hello! This is Touqeer Ahmad"
 author_profile: true
 redirect_from: 
   - /about/
