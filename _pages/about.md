@@ -15,8 +15,6 @@ I earned my PhD in Statistical Sciences, with a Doctor Europaeus title, from the
 
 **Research Interest**
 
-Research Interests
-
 My work lies at the intersection of stochastic processes, statistical modeling, and machine learning.
 I am particularly interested in:
 
@@ -30,15 +28,15 @@ News
 ======
 <ul>
   <li>
-    - The paper has recently been accepted at <strong>NeurIPS</strong> — take a look at it 
+     The paper has recently been accepted at <strong>NeurIPS</strong> — take a look at it 
     <a href="https://hal.science/view/index/docid/5328416" target="_blank" rel="noopener noreferrer">here</a>.
   </li>
   <li>
-    - The paper has recently been accepted in <strong>Communications in Statistics – Simulation and Computation</strong> — see it 
+     The paper has recently been accepted in <strong>Communications in Statistics – Simulation and Computation</strong> — see it 
     <a href="https://doi.org/10.48550/arXiv.2504.11058" target="_blank" rel="noopener noreferrer">here</a>.
   </li>
   <li>
-    - I will be <strong>joining the University of Oslo</strong> starting <strong>November 1st</strong>.
+     I will be <strong>joining the University of Oslo</strong> starting <strong>November 1st</strong>.
   </li>
 </ul>
 
