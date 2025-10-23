@@ -28,7 +28,8 @@ I am particularly interested in:
 
 News
 ======
-- The paper is recently accepted in NeurIPS, take a look by this [link](https://hal.science/view/index/docid/5328416) 
+- The paper has recently been accepted in NeurIPS, take a look at this [link](https://hal.science/view/index/docid/5328416)
+- The paper has recently been accepted in Communications in Statistics - Simulation and Computation, take a look at this [link](https://doi.org/10.48550/arXiv.2504.11058) 
 
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
