@@ -32,6 +32,19 @@ News
 - The paper has recently been accepted in Communications in Statistics - Simulation and Computation, take a look at this [link](https://doi.org/10.48550/arXiv.2504.11058)
 - Joining the University of Oslo from November 1st.  
 
+<ul>
+  <li>
+    The paper has recently been accepted at <strong>NeurIPS</strong> — take a look at it 
+    <a href="https://hal.science/view/index/docid/5328416" target="_blank" rel="noopener noreferrer">here</a>.
+  </li>
+  <li>
+    The paper has recently been accepted in <strong>Communications in Statistics – Simulation and Computation</strong> — see it 
+    <a href="https://doi.org/10.48550/arXiv.2504.11058" target="_blank" rel="noopener noreferrer">here</a>.
+  </li>
+  <li>
+    I will be <strong>joining the University of Oslo</strong> starting <strong>November 1st</strong>.
+  </li>
+</ul>
 
 
 Getting started
