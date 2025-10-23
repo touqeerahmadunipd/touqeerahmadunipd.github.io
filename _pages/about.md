@@ -15,7 +15,18 @@ I earned my PhD in Statistical Sciences, with a Doctor Europaeus title, from the
 
 **Research Interest**
 
-My research focuses on the stochastic and statistical modeling of complex natural and environmental processes, with particular emphasis on the space-time dependence of extreme events. I am also interested in statistical learning, including the development and application of modern machine learning methods for high-dimensional data analysis, dimension reduction, and the treatment of imbalanced or incomplete datasets.
+Research Interests
+
+My work lies at the intersection of stochastic processes, statistical modeling, and machine learning.
+I am particularly interested in:
+
+- Modeling and analysis of spatiotemporal dependence in extreme events
+
+- Stochastic modeling of complex natural and environmental systems
+
+- Statistical learning methods for high-dimensional, imbalanced, or incomplete datasets
+
+- Applications of dimension reduction and data-driven approaches in environmental and climate research
 
 
 News
