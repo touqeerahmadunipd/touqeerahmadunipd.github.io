@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a DSTrain – MSCA (Marie Skłodowska-Curie Actions) Research Fellow in the Department of Mathematics at the University of Oslo, Norway. My current research focuses on statistical methods for high-dimensional and complex data.
+I am a DSTrain – MSCA (Marie Skłodowska-Curie Actions) Research Fellow in the Department of Mathematics at the University of Oslo, Norway. My current research focuses on stochastic modeling of natural processes.
 
 Previously, I was a Postdoctoral Research Fellow at the Institut Denis Poisson, University of Orléans, France (May–October 2025), where I worked on handling missing data in high-dimensional environmental datasets. Before that, I held a postdoctoral position at ENSAI, France, focusing on dimension reduction and imbalanced data classification.
 
-I earned my PhD in Statistical Sciences, with a Doctor Europaeus title, from the University of Padova, Italy. My doctoral research focused was "On the modeling of discrete extreme values"[Link](https://share.google/JIw7EP2ixGIHOn4Iy) .
+I earned my PhD in Statistical Sciences, with a Doctor Europaeus title, from the University of Padova, Italy. My doctoral research focused on "On the modeling of discrete extreme values".
 
 
 A data-driven personal website
