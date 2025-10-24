@@ -2,7 +2,7 @@
 layout: page
 title: "Contacts"
 permalink: /contacts/
-- /contacts.html
+
 ---
 I am a DSTrain – MSCA (Marie Skłodowska-Curie Actions) Research Fellow in the Department of Mathematics at the University of Oslo, Norway. My current research focuses on stochastic modeling of natural processes.
 
