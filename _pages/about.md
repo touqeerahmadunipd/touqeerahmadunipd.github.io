@@ -45,7 +45,14 @@ For more info
 <p>
   For more information, feel free to email me.
 </p>
-touqeer.ahmad [at] univ-orleans.fr (preferred)
-touqeer.ahmad8960 [at] gmail.com (preferred)
-touqeer.ahmad [at] ensai.fr (deprecated)
-touqeer.ahmad [at] phd.unipd.it (deprecated)
+Preferred:
+
+touqeer.ahmad [at] univ-orleans.fr
+
+touqeer.ahmad8960 [at] gmail.com
+
+Deprecated:
+
+touqeer.ahmad [at] ensai.fr
+
+touqeer.ahmad [at] phd.unipd.it
