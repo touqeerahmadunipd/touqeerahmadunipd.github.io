@@ -53,8 +53,9 @@ Education
 Visiting Periods
 ======
 * **09/2022 – 08/2022**  
-  **Columbia University (New York, USA)**  
-  Visiting period, Department of Biomedical Informatics
+  **Université de Versailles Saint-Quentin-en-Yvelines (UVSQ) and LSCE, Paris, France**
+  Jointly worked with <a href="https://www.lsce.ipsl.fr/en/pisp/philippe-naveau/" target="_blank" rel="noopener noreferrer">Philippe Naveau</a> on distcete extremes
+  
 
 * **08/2017 – 01/2018**  
   **Århus University (Denmark)**  
