@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <!-- Memory picture -->
-![My memory at University of Padua](/images/IMG_3514(1).JPG)
+![My memory at University of Padua](/images/IMG_3514 (1).JPG)
 *Source: University of Padua, Italy*
 
 Current Position
