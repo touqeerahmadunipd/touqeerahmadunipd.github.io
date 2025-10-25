@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+<!-- Memory picture -->
+![My memory at University of Padua](/images/profile1.png)
+*Source: University of Padua, Italy*
 
 Current Position
 ======
