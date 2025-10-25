@@ -62,10 +62,10 @@ redirect_from:
   </li>
 
   <li>
-    <strong>Ahmad, T.</strong> (2022). 
-    <em>Modelling the entire range of discrete extreme data.</em><br>
-    Presented at the <strong>International Conference on Recent Trends in Statistics &amp; Data Analytics</strong>, National University of Science and Technology (NUST), Islamabad, Pakistan.<br>
-    <strong>Date:</strong> 23 September 2022.
+    <strong>Ahmad, T.</strong>, Gaetan, C., &amp; Naveau, P. (2022). 
+    <em>Modelling of discrete extremes through extended versions of discrete generalized Pareto distribution.</em>
+    Presented at the <strong>15th International Conference of the ERCIM Working Group on Computational and Methodological Statistics (CMStatistics)</strong>, King’s College London, UK.
+    <strong>Date:</strong> 17–19 December 2022.
   </li>
 </ol>
 
