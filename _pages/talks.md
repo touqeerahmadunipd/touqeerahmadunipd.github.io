@@ -20,15 +20,14 @@ Invited talks
     <strong>Ahmad, T.</strong>, Gaetan, C., & Naveau, P. (2024). 
     <em>An extended generalized Pareto regression model for count data.</em>
     Presented at the <strong>17th International Conference of the ERCIM Working Group on Computational and Methodological Statistics (CMStatistics 2024)</strong>, 
-    King’s College London, UK.<br>
-    <strong>Date:</strong> 14–16 December 2024.
+    King’s College London, UK. <strong>Date:</strong> 14–16 December 2024.
   </li>
 
   <li>
-    <strong>Ahmad, T.</strong>, & Hasan, T. (2023). 
-    <em>A flexible novel extension of discrete generalized Pareto distribution.</em><br>
+    <strong>Ahmad, T.</strong>, & Arshad. I, A. (2023). 
+    <em>A flexible novel extension of the discrete generalized Pareto distribution.</em>
     Presented at the <strong>2nd International Conference on Recent Trends in Statistics &amp; Data Analytics</strong>, 
-    National University of Science and Technology (NUST), Islamabad, Pakistan.<br>
+    National University of Science and Technology (NUST), Islamabad, Pakistan.
     <strong>Date:</strong> 14–15 December 2023.
   </li>
 
@@ -36,7 +35,7 @@ Invited talks
     <strong>Ahmad, T.</strong> (2022). 
     <em>Modelling the entire range of discrete extreme data.</em><br>
     Presented at the <strong>International Conference on Recent Trends in Statistics &amp; Data Analytics</strong>, 
-    National University of Science and Technology (NUST), Islamabad, Pakistan.<br>
+    National University of Science and Technology (NUST), Islamabad, Pakistan.
     <strong>Date:</strong> 23 September 2022.
   </li>
 </ol>
