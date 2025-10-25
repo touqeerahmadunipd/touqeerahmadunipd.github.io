@@ -53,7 +53,7 @@ Education
 Visiting Periods
 ======
 * **09/2022 – 08/2022**  
-  **Université de Versailles Saint-Quentin-en-Yvelines (UVSQ) and LSCE, Paris, France**<br>
+  **Versailles Saint-Quentin-en-Yvelines University (UVSQ) and LSCE, Paris, France**<br>
   Joint research with <a href="https://www.lsce.ipsl.fr/en/pisp/philippe-naveau/" target="_blank" rel="noopener noreferrer">Philippe Naveau</a> on discrete extremes.
 
 * **12/2022 – 02/2023**  
