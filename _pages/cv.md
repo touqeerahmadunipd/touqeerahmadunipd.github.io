@@ -58,7 +58,7 @@ Visiting Periods
 
 * **12/2022 – 02/2023**  
   **University of Geneva, Research Institute for Statistics and Information Science**<br>
-  Joint research with <a href="http://www.sengelke.com/" target="_blank" rel="noopener noreferrer">Sebastian Engelke</a> on the project *“Copula models for the entire range of discrete data with extreme observations.”*
+  Joint research with <a href="http://www.sengelke.com/" target="_blank" rel="noopener noreferrer">Sebastian Engelke</a> on the project *“Copula models for the entire range of discrete data with extreme observations (ongoing).”*
 
 Other Work Experience
 ======
