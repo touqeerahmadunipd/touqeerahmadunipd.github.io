@@ -32,7 +32,7 @@ Previous Positions
 * **05/2023 – 04/2025**  
   **CREST, ENSAI, Bruz, France**
   Postdoctoral Research Fellow<br> 
-  Project: *Machine learning methods for exploiting extreme values ​​of massive data*  
+  Project: *Machine learning and data mining of extreme values in massive data*  
   Collaborators:  <a href="https://sites.google.com/site/fportierwebpage/" target="_blank" rel="noopener noreferrer">François Portier</a> & <a href="https://math.univ-angers.fr/~stupfler/" target="_blank" rel="noopener noreferrer">Gilles Stupfler</a>
 
 Education
