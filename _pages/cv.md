@@ -14,10 +14,11 @@ redirect_from:
 
 Current Position
 ======
-* **08/2023 – ongoing**  
-  **University of Padua (Italy)**  
-  **Researcher (RTDa) in Social Statistics (secs-s/05)**  
-  Main project: *AGE - IT - A novel public-private alliance to generate socioeconomic, biomedical and technological solutions for an inclusive Italian Ageing Society.*
+* **11/2025 – ongoing**  
+  **University of Oslo, Norway**  
+  **DSTrain-MSCA Postdoctoral Research Fellow**  
+  Main project: *Stochastic Modeling of Natural Processes*
+  Collaborator: [Thordis Linda Thorarinsdottir](https://www.mn.uio.no/math/english/people/aca/thordislt/)
 
 Previous Positions
 ======
