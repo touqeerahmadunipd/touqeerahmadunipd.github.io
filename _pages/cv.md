@@ -17,8 +17,8 @@ Current Position
 * **11/2025 – ongoing**  
   **University of Oslo, Norway**  
   **DSTrain-MSCA Postdoctoral Research Fellow**  
-  Main project: *Stochastic Modeling of Natural Processes*
-  Collaborator: *<a href="https://www.mn.uio.no/math/english/people/aca/thordislt/" target="_blank" rel="noopener noreferrer">Thordis Linda Thorarinsdottir</a>*
+  Main project: Stochastic Modeling of Natural Processes
+  Collaborator: <a href="https://www.mn.uio.no/math/english/people/aca/thordislt/" target="_blank" rel="noopener noreferrer">Thordis Linda Thorarinsdottir</a>
 
 
 Previous Positions
