@@ -44,7 +44,7 @@ Education
 
 * **09/2015 – 07/2017**  
   **MS Statistics with (gold medal+ distintion)**, IIU, Islamabad, Pakistan.
-  Thesis: *Frequency Analysis of Extreme Rainfall in Pakistan using Classical and Bayesian Paradigms *  
+  Thesis: *Frequency Analysis of Extreme Rainfall in Pakistan using Classical and Bayesian Paradigms*  
   Supervisor:  <a href="https://www.iiu.edu.pk/faculties/sciences/department-of-mathematics/faculty-staff/" target="_blank" rel="noopener noreferrer">Dr. Ishfaq Ahmad</a>
 
 * **09/2013 – 07/2015**  
