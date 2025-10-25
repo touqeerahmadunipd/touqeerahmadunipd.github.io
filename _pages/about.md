@@ -24,39 +24,36 @@ I am particularly interested in:
 - Applications of dimension reduction and data-driven approaches in environmental and climate research
 
 
-News
-======
+<h2>News</h2>
 <ul>
   <li>
-     The paper has recently been accepted at <strong>NeurIPS</strong> — take a look at it 
+    The paper has recently been accepted at <strong>NeurIPS</strong> — take a look at it 
     <a href="https://doi.org/10.48550/arXiv.2510.20472" target="_blank" rel="noopener noreferrer">here</a>.
   </li>
   <li>
-     The paper has recently been accepted in <strong>Communications in Statistics – Simulation and Computation</strong> — see it 
+    The paper has recently been accepted in <strong>Communications in Statistics – Simulation and Computation</strong> — see it 
     <a href="https://doi.org/10.48550/arXiv.2504.11058" target="_blank" rel="noopener noreferrer">here</a>.
   </li>
   <li>
-     A new composite Mann-Whitney test for two-sample survival comparisons with right-censored data <strong>preprint<strong> available— see it 
+    A new composite Mann–Whitney test for two-sample survival comparisons with right-censored data <strong>preprint</strong> available — see it 
     <a href="https://doi.org/10.48550/arXiv.2510.05353" target="_blank" rel="noopener noreferrer">here</a>.
   </li>
   <li>
-     I will be <strong>joining the University of Oslo</strong> starting <strong>November 1st</strong>.
+    I will be <strong>joining the University of Oslo</strong> starting <strong>November 1st</strong>.
   </li>
 </ul>
 
-For more info
-------
+<h2>For more info</h2>
 <p>
   For more information, feel free to email me.
 </p>
-Preferred:
 
-touqeer.ahmad [at] univ-orleans.fr
+<p><strong>Preferred:</strong><br>
+  touqeer.ahmad [at] univ-orleans.fr<br>
+  touqeer.ahmad8960 [at] gmail.com
+</p>
 
-touqeer.ahmad8960 [at] gmail.com
-
-Deprecated:
-
-touqeer.ahmad [at] ensai.fr
-
-touqeer.ahmad [at] phd.unipd.it
+<p><strong>Deprecated:</strong><br>
+  touqeer.ahmad [at] ensai.fr<br>
+  touqeer.ahmad [at] phd.unipd.it
+</p>
