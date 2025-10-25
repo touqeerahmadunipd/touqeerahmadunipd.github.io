@@ -31,7 +31,7 @@ redirect_from:
 
   <li>
     <strong>Ahmad, T.</strong> (2022). 
-    <em>Modelling the entire range of discrete extreme data.</em><br>
+    <em>Modelling the entire range of discrete extreme data.</em>
     Presented at the <strong>International Conference on Recent Trends in Statistics &amp; Data Analytics</strong>, 
     National University of Science and Technology (NUST), Islamabad, Pakistan.
     <strong>Date:</strong> 23 September 2022.
@@ -72,20 +72,20 @@ redirect_from:
 <h2>Seminars</h2>
 <ol>
   <li>
-    <strong>Ahmad, T.</strong> (2022). <em>Extreme value theory and its role in the modeling of rare events.</em><br>
-    Presented at the <strong>Department of Statistics, Allama Iqbal Open University</strong>, Islamabad, Pakistan.<br>
+    <strong>Ahmad, T.</strong> (2022). <em>Extreme value theory and its role in the modeling of rare events.</em>
+    Presented at the <strong>Department of Statistics, Allama Iqbal Open University</strong>, Islamabad, Pakistan.
     <strong>Date:</strong> 28 January 2022.
   </li>
 
   <li>
-    <strong>Ahmad, T.</strong> (2022). <em>Some new versions of discrete extreme models.</em><br>
-    Presented at the <strong>Laboratoire de Mathématiques de Versailles</strong>, Versailles, France.<br>
+    <strong>Ahmad, T.</strong> (2022). <em>Some new versions of discrete extreme models.</em>
+    Presented at the <strong>Laboratoire de Mathématiques de Versailles</strong>, Versailles, France.
     <strong>Date:</strong> 19 April 2022.
   </li>
 
   <li>
-    <strong>Ahmad, T.</strong> (2022). <em>Some new versions of discrete extreme models.</em><br>
-    Presented at the <strong>Department of Statistical Sciences, University of Padova</strong>, Italy.<br>
+    <strong>Ahmad, T.</strong> (2022). <em>Some new versions of discrete extreme models.</em>
+    Presented at the <strong>Department of Statistical Sciences, University of Padova</strong>, Italy.
     <strong>Date:</strong> 17 February 2022.
   </li>
 </ol>
