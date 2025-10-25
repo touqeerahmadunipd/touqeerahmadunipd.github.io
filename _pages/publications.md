@@ -41,6 +41,6 @@ Preprints
 
 To look at all my research papers
 ======
-To view all my research papers, please visit my 
+please visit my 
 <a href="https://scholar.google.com/citations?user=0Unv8IAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>.
 
