@@ -36,9 +36,7 @@ Preprints
 4. **Ahmad, T.,** Portier, F., & Stupfler, G. (2024). <a href="https://doi.org/10.48550/arXiv.2407.08485" target="_blank" rel="noopener noreferrer">Logistic lasso regression with nearest neighbors for gradient-based dimension reduction.</a>  
 
 
-
-To look at all my research papers
-======
+<h2>To look at all my research papers</h2>
 Please visit my 
 <a href="https://scholar.google.com/citations?user=0Unv8IAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>.
 
