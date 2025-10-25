@@ -60,6 +60,13 @@ redirect_from:
     Presented at the <strong>13th International Conference of Extreme Value Analysis (EVA 2023)</strong>, Bocconi University, Milan, Italy.
     <strong>Date:</strong> 26–30 June 2023.
   </li>
+
+  <li>
+    <strong>Ahmad, T.</strong> (2022). 
+    <em>Modelling the entire range of discrete extreme data.</em><br>
+    Presented at the <strong>International Conference on Recent Trends in Statistics &amp; Data Analytics</strong>, National University of Science and Technology (NUST), Islamabad, Pakistan.<br>
+    <strong>Date:</strong> 23 September 2022.
+  </li>
 </ol>
 
 
