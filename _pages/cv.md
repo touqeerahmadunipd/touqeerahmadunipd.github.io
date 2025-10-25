@@ -21,8 +21,8 @@ redirect_from:
   Collaborator: <a href="https://www.mn.uio.no/math/english/people/aca/thordist/" target="_blank" rel="noopener noreferrer">Thordis Linda Thorarinsdottir</a>
 
 
-Previous Positions
-======
+<h2>Previous Positions</h2>
+
 * **05/2025 – 10/2025**  
   **Institut Denis Poisson, Université d'Orléans, France**  
   Postdoctoral Research Fellow with  <a href="https://www.junon-cvl.fr/fr" target="_blank" rel="noopener noreferrer">JUNON</a><br> 
@@ -35,8 +35,8 @@ Previous Positions
   Project: *Machine learning and data mining of extreme values in massive data*  
   Collaborators:  <a href="https://sites.google.com/site/fportierwebpage/" target="_blank" rel="noopener noreferrer">François Portier</a> & <a href="https://math.univ-angers.fr/~stupfler/" target="_blank" rel="noopener noreferrer">Gilles Stupfler</a>
 
-Education
-======
+<h2>Education</h2>
+
 * **12/2019 – 06/2023**  
   **PhD in Statistics**, University of Padua, Italy.   
   Thesis: *On the modeling of discrete extreme values*  
@@ -50,8 +50,8 @@ Education
 * **09/2013 – 07/2015**  
   **MSc Statistics with (distintion)**,  IIU, Islamabad, Pakistan.
 
-Visiting Periods
-======
+<h2>Visiting Periods</h2>
+
 * **09/2022 – 08/2022**  
   **Versailles Saint-Quentin-en-Yvelines University (UVSQ) and LSCE, Paris, France**<br>
   Joint research with <a href="https://www.lsce.ipsl.fr/en/pisp/philippe-naveau/" target="_blank" rel="noopener noreferrer">Philippe Naveau</a> on discrete extremes.
@@ -60,8 +60,8 @@ Visiting Periods
   **University of Geneva, Research Institute for Statistics and Information Science**<br>
   Joint research with <a href="http://www.sengelke.com/" target="_blank" rel="noopener noreferrer">Sebastian Engelke</a> on the project *“Copula models for the entire range of discrete data with extreme observations (ongoing).”*
 
-Other Work Experience
-======
+<h2>Other Work Experience</h2>
+
 * **02/2018 – 11/2019**  
   **Higher Education Department Govt. of Punjab, Pakistan**  
   Lecture Statistics  
@@ -70,8 +70,8 @@ Other Work Experience
   **Department of Statistics, AIOU, Islamabad, Pakistan**  
   Teaching Assistant  
 
-Skills
-======
+<h2>Skills</h2>
+
 **Programming Languages & Software:**  
 * **R:** data wrangling, statistical modeling, data mining & machine learning, package development, data visualization (advanced)  
 * **Python, SAS:** statistical modeling (basic)  
@@ -80,16 +80,16 @@ Skills
 * **Machine learning libraries:** Keras, TensorFlow, Torch (basic)  
 * **Version control:** GitHub (usual user)
 
-Languages
-======
+<h2>Languages</h2>
+
 * Urdu and Punjabi: Mother tongue
 * Italian: Basic (A1)
 * French: Basic (A2)
 * Norwegian: Basic (A1)
 * English: Fluent (C1)
 
-Detailed CV
-======
+<h2>Detailed CV</h2>
+
 <p><em>For the detailed version of my CV, please see the <a href="{{ '/files/Touqeer_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">PDF version</a>.</em></p>
 
   
