@@ -54,12 +54,11 @@ Visiting Periods
 ======
 * **09/2022 – 08/2022**  
   **Université de Versailles Saint-Quentin-en-Yvelines (UVSQ) and LSCE, Paris, France**<br>
-  Jointly worked with <a href="https://www.lsce.ipsl.fr/en/pisp/philippe-naveau/" target="_blank" rel="noopener noreferrer">Philippe Naveau</a> on distcete extremes
-  
+  Joint research with <a href="https://www.lsce.ipsl.fr/en/pisp/philippe-naveau/" target="_blank" rel="noopener noreferrer">Philippe Naveau</a> on discrete extremes.
 
-* **08/2017 – 01/2018**  
-  **Århus University (Denmark)**  
-  Erasmus student, Mathematics and Statistics Master’s Degree
+* **12/2022 – 02/2023**  
+  **University of Geneva, Research Institute for Statistics and Information Science**<br>
+  Joint research with <a href="http://www.sengelke.com/" target="_blank" rel="noopener noreferrer">Sebastian Engelke</a> on the project *“Copula models for the entire range of discrete data with extreme observations.”*
 
 Other Work Experience
 ======
