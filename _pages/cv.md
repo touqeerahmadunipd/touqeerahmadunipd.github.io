@@ -42,15 +42,17 @@ Education
   Thesis: *On the modeling of discrete extreme values*  
   Advisors:  <a href="https://www.unive.it/data/people/5591383" target="_blank" rel="noopener noreferrer">Carlo Gaetan</a> & <a href="https://www.lsce.ipsl.fr/en/pisp/philippe-naveau/" target="_blank" rel="noopener noreferrer">Philippe Naveau</a>
 
-* **10/2016 – 03/2019**  
-  **Master’s Degree in Statistical Sciences**, University of Padua (Italy)
+* **09/2015 – 07/2017**  
+  **MS Statistics with (gold medal+ distintion)**, IIU, Islamabad, Pakistan.
+  Thesis: *Frequency Analysis of Extreme Rainfall in Pakistan using Classical and Bayesian Paradigms *  
+  Supervisor:  <a href="https://www.iiu.edu.pk/faculties/sciences/department-of-mathematics/faculty-staff/" target="_blank" rel="noopener noreferrer">Dr. Ishfaq Ahmad</a>
 
-* **10/2013 – 09/2016**  
-  **Bachelor’s Degree in Statistics**, University of Padua (Italy)
+* **09/2013 – 07/2015**  
+  **MSc Statistics with (distintion)**,  IIU, Islamabad, Pakistan.
 
 Visiting Periods
 ======
-* **02/2022 – 08/2022**  
+* **09/2022 – 08/2022**  
   **Columbia University (New York, USA)**  
   Visiting period, Department of Biomedical Informatics
 
