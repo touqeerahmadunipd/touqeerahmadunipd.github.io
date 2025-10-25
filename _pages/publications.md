@@ -21,7 +21,7 @@ Selected Papers
 
 4. Hasan, T., & **Ahmad, T.** (2025). <a href="https://doi.org/10.48550/arXiv.2410.04864" target="_blank" rel="noopener noreferrer">Order of Addition in Mixture-Amount Experiments.</a> <i>Pharmaceutical Statistics</i>, to appear.
    
-5. Rehman, U. S., **Ahmad, T.,** & Wu, D. (2025). <a href="https://doi.org/10.1007/s00181-025-02784-3" target="_blank" rel="noopener noreferrer">Novel modeling for assessment of extreme values risk in cryptocurrencies portfolio.</a> <i>Empirical Economics</i>, to appear.  
+5. Rehman, U. S., **Ahmad, T.,** & Wu, D. (2025). <a href="https://doi.org/10.1007/s00181-025-02784-3" target="_blank" rel="noopener noreferrer">Novel modeling for assessment of extreme values risk in cryptocurrencies portfolio.</a> <i>Empirical Economics</i>.  
 
 6. **Ahmad, T.,** Gaetan, C., & Naveau, P. (2025). <a href="https://doi.org/10.1177/1471082X241266729" target="_blank" rel="noopener noreferrer">An extended generalized Pareto regression model for count data.</a> <i>Statistical Modeling</i>, **25(5)**, 416-431. 
 
