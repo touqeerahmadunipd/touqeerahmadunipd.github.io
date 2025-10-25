@@ -62,21 +62,16 @@ Visiting Periods
 
 Other Work Experience
 ======
-* **08/2018 – 03/2019**  
-  **Veneto Cancer Registry, Padua (Italy)**  
-  Research internship for Master’s Thesis  
-  Supervisor: Dr. M. Zorzi
+* **02/2018 – 11/2019**  
+  **Higher Education Department Govt. of Punjab, Pakistan**  
+  Lecture Statistics  
 
-* **11/2018 – 01/2019**  
-  **Regional Healthcare System, Padua (Italy)**  
-  Statistician, Diabetology Department  
-  Research project: *Statistical Evaluations of the Diabetes Screening*
+* **07/2016 – 01/2018**  
+  **Department of Statistics, AIOU, Islamabad, Pakistan**  
+  Teaching Assistant  
 
 Skills
 ======
-**Professional:**  
-Theoretical and applied statistics (clinical data analysis), Data Mining & Machine Learning, Epidemiology, Text Mining & Sentiment Analysis, Survival Analysis
-
 **Programming Languages & Software:**  
 * **R:** data wrangling, statistical modeling, data mining & machine learning, package development, data visualization (advanced)  
 * **Python, SAS:** statistical modeling (basic)  
@@ -87,5 +82,8 @@ Theoretical and applied statistics (clinical data analysis), Data Mining & Machi
 
 Languages
 ======
-* Italian: Mother tongue  
+* Urdu and Punjabi: Mother tongue
+* Italian: Basic (A1)
+* French: Basic (A2)
+* Norwegian: Basic (A1)
 * English: Fluent (C1)
