@@ -25,15 +25,15 @@ Previous Positions
 ======
 * **05/2025 – 10/2025**  
   **Institut Denis Poisson, Université d'Orléans, France**  
-  Postdoctoral Research Fellow under  <a href="https://www.junon-cvl.fr/fr" target="_blank" rel="noopener noreferrer">JUNON</a><br> 
+  Postdoctoral Research Fellow with  <a href="https://www.junon-cvl.fr/fr" target="_blank" rel="noopener noreferrer">JUNON</a><br> 
   Project: *Statistical Analysis of Environmental Data*  
   Collaborators:  <a href="https://www.idpoisson.fr/chauveau/" target="_blank" rel="noopener noreferrer">Didier Chauveau</a> & <a href="https://www.univ-orleans.fr/lifo/membre/Sophie.JACQUOT" target="_blank" rel="noopener noreferrer">Sophie Jacquot</a>
 
-* **04/2019 – 11/2019**  
-  **European Institute of Oncology, Milan (Italy)**  
-  Statistician, Department of Experimental Oncology  
-  Main interests: medical statistics, survival analysis, meta-analysis, data mining, and machine learning applications in medicine  
-  Supervisor: Prof. S. Gandini
+* **05/2023 – 04/2025**  
+  **CREST, ENSAI, Bruz, France**
+  Postdoctoral Research Fellow<br> 
+  Project: *Machine learning methods for exploiting extreme values ​​of massive data*  
+  Collaborators:  <a href="https://sites.google.com/site/fportierwebpage/" target="_blank" rel="noopener noreferrer">François Portier</a> & <a href="https://math.univ-angers.fr/~stupfler/" target="_blank" rel="noopener noreferrer">Gilles Stupfler</a>
 
 Education
 ======
