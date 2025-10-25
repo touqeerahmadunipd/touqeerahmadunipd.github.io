@@ -12,7 +12,6 @@ redirect_from:
 ![My memory at Capri](/images/capri1.jpg)
 *Capri, Italy*
 
-Invited talks
 ======
 <h2>Invited Talks</h2>
 <ol>
@@ -40,7 +39,8 @@ Invited talks
   </li>
 </ol>
 
-
+======
+<h2>Conbributed Talks</h2>
 
 1. **Ahmad, T.,** Gaetan, C., & Naveau, P. (2025).  <a href="https://doi.org/10.48550/arXiv.2510.20472" target="_blank" rel="noopener noreferrer">Concentration and excess risk bounds for imbalanced classification with synthetic oversampling</a>. <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, **38**, to appear.
 2. **Ahmad, T.,** & Ahmad, I. A. (2025). <a href="https://doi.org/10.48550/arXiv.2409.18719" target="_blank" rel="noopener noreferrer">New flexible versions of extended generalized Pareto model for count data.</a> <i>Journal of Applied Statistics</i>, to appear. 
