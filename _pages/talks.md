@@ -12,8 +12,37 @@ redirect_from:
 ![My memory at Capri](/images/capri1.jpg)
 *Capri, Italy*
 
-Selected Papers
+Invited talks
 ======
+<h2>Invited Talks</h2>
+<ol>
+  <li>
+    <strong>Ahmad, T.</strong>, Gaetan, C., & Naveau, P. (2024). 
+    <em>An extended generalized Pareto regression model for count data.</em><br>
+    Presented at the <strong>17th International Conference of the ERCIM Working Group on Computational and Methodological Statistics (CMStatistics 2024)</strong>, 
+    King’s College London, UK.<br>
+    <strong>Date:</strong> 14–16 December 2024.
+  </li>
+
+  <li>
+    <strong>Ahmad, T.</strong>, & Hasan, T. (2023). 
+    <em>A flexible novel extension of discrete generalized Pareto distribution.</em><br>
+    Presented at the <strong>2nd International Conference on Recent Trends in Statistics &amp; Data Analytics</strong>, 
+    National University of Science and Technology (NUST), Islamabad, Pakistan.<br>
+    <strong>Date:</strong> 14–15 December 2023.
+  </li>
+
+  <li>
+    <strong>Ahmad, T.</strong> (2022). 
+    <em>Modelling the entire range of discrete extreme data.</em><br>
+    Presented at the <strong>International Conference on Recent Trends in Statistics &amp; Data Analytics</strong>, 
+    National University of Science and Technology (NUST), Islamabad, Pakistan.<br>
+    <strong>Date:</strong> 23 September 2022.
+  </li>
+</ol>
+
+
+
 1. **Ahmad, T.,** Kalan, M. M., Portier, F., & Stupfler, G. (2025).  <a href="https://doi.org/10.48550/arXiv.2510.20472" target="_blank" rel="noopener noreferrer">Concentration and excess risk bounds for imbalanced classification with synthetic oversampling</a>. <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, **38**, to appear.
 2. **Ahmad, T.,** & Ahmad, I. A. (2025). <a href="https://doi.org/10.48550/arXiv.2409.18719" target="_blank" rel="noopener noreferrer">New flexible versions of extended generalized Pareto model for count data.</a> <i>Journal of Applied Statistics</i>, to appear. 
 
