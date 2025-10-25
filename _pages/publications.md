@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <!-- Memory picture -->
-![My memory at Capri](/images/capri.jpg)
+![My memory at Capri](/images/capri1.jpg)
 *Capri, Italy*
 
 Current Position
