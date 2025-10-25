@@ -17,17 +17,17 @@ Current Position
 * **11/2025 – ongoing**  
   **University of Oslo, Norway**  
   **DSTrain-MSCA Postdoctoral Research Fellow**  
-  Main project: Stochastic Modeling of Natural Processes<br>
+  Project: *Stochastic Modeling of Natural Processes*<br>
   Collaborator: <a href="https://www.mn.uio.no/math/english/people/aca/thordist/" target="_blank" rel="noopener noreferrer">Thordis Linda Thorarinsdottir</a>
 
 
 Previous Positions
 ======
-* **01/2023 – 07/2023**  
-  **University of Padua (Italy)**  
-  Postdoctoral Fellow, Department of Statistical Sciences  
-  PRIN project: *Social and Health Frailty as determinants of Inequality in Aging (SOFIA)*  
-  Supervisor: Prof. G. Boccuzzo
+* **05/2025 – 10/2025**  
+  **Institut Denis Poisson, Université d'Orléans, France**  
+  Postdoctoral Research Fellow under  <a href="https://www.junon-cvl.fr/fr" target="_blank" rel="noopener noreferrer">JUNON</a>
+  Project: *Statistical Analysis of Environmental Data*<br>  
+  Collaborators:  <a href="https://www.idpoisson.fr/chauveau/" target="_blank" rel="noopener noreferrer">Didier Chauveau</a>
 
 * **04/2019 – 11/2019**  
   **European Institute of Oncology, Milan (Italy)**  
