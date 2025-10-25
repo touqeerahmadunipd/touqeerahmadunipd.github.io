@@ -31,9 +31,9 @@ Preprints
 1. Hussain, A., & **Ahmad, T.** (2025).  <a href="https://doi.org/10.48550/arXiv.2510.05353" target="_blank" rel="noopener noreferrer">A new composite Mann-Whitney test for two-sample survival comparisons with right-censored data</a>. 
 2. **Ahmad, T.,** & Hasan, T. (2025). <a href="https://doi.org/10.48550/arXiv.2507.15099" target="_blank" rel="noopener noreferrer">Space time modeling for drought classification and prediction.</a>. 
 
-3. Hasan, T., & **Ahmad, T.,** (2025). <a href="https://doi.org/10.48550/arXiv.2410.22501" target="_blank" rel="noopener noreferrer">Order of Addition in Orthogonally Blocked Mixture and Component-Amount Designs.</a>
+3. Hasan, T., & **Ahmad, T.,** (2024). <a href="https://doi.org/10.48550/arXiv.2410.22501" target="_blank" rel="noopener noreferrer">Order of Addition in Orthogonally Blocked Mixture and Component-Amount Designs.</a>
 
-4. **Ahmad, T.,** Portier, F., & Stupfler, G. (2025). <a href="https://doi.org/10.48550/arXiv.2407.08485" target="_blank" rel="noopener noreferrer">Logistic lasso regression with nearest neighbors for gradient-based dimension reduction.</a>  
+4. **Ahmad, T.,** Portier, F., & Stupfler, G. (2024). <a href="https://doi.org/10.48550/arXiv.2407.08485" target="_blank" rel="noopener noreferrer">Logistic lasso regression with nearest neighbors for gradient-based dimension reduction.</a>  
 
 
 
