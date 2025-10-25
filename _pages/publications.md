@@ -12,7 +12,7 @@ redirect_from:
 ![My memory at Capri](/images/capri1.jpg)
 *Capri, Italy*
 
-Current Position
+Selected Publications
 ======
 * **11/2025 – ongoing**  
   **University of Oslo, Norway**  
