@@ -16,7 +16,7 @@ Current Position
 ======
 * **11/2025 – ongoing**  
   **University of Oslo, Norway**  
-  **<a href="https://www.uio.no/dscience/english/" target="_blank" rel="noopener noreferrer">DSTrain-MSCA</a>DSTrain-MSCA Postdoctoral Research Fellow**  
+  **<a href="https://www.uio.no/dscience/english/" target="_blank" rel="noopener noreferrer">DSTrain-MSCA</a> Postdoctoral Research Fellow**  
   Project: *Stochastic Modeling of Natural Processes*<br>
   Collaborator: <a href="https://www.mn.uio.no/math/english/people/aca/thordist/" target="_blank" rel="noopener noreferrer">Thordis Linda Thorarinsdottir</a>
 
