@@ -15,7 +15,7 @@ redirect_from:
 Selected Papers
 ======
 1. **Ahmad, T.,** Kalan, M. M., Portier, F., & Stupfler, G. (2025).  <a href="https://doi.org/10.48550/arXiv.2510.20472" target="_blank" rel="noopener noreferrer">Concentration and excess risk bounds for imbalanced classification with synthetic oversampling</a>. <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, **38**, to appear. 
-2. **Ahmad, T.,** & Ahmad, I. A. (2025). New flexible versions of extended generalized Pareto model for count data. <i>Journal of Applied Statistics</i>, to appear. <a href="https://doi.org/10.48550/arXiv.2409.18719" target="_blank" rel="noopener noreferrer">Link</a>
+2. **Ahmad, T.,** & Ahmad, I. A. (2025). <a href="https://doi.org/10.48550/arXiv.2409.18719" target="_blank" rel="noopener noreferrer">New flexible versions of extended generalized Pareto model for count data.</a> <i>Journal of Applied Statistics</i>, to appear. 
 
 3. Abbas, A., **Ahmad, T.,** & Ahmad, I. (2025). Modeling zero-inflated precipitation extremes. <i>Communications in Statistics – Simulation and Computation</i>, to appear. <a href="https://doi.org/10.48550/arXiv.2504.11058" target="_blank" rel="noopener noreferrer">Link</a>
 
