@@ -45,8 +45,6 @@ News
 </ul>
 
 
-
-
 For more info
 ------
 <p>
