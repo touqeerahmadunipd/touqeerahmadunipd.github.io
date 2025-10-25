@@ -37,10 +37,10 @@ Previous Positions
 
 Education
 ======
-* **10/2019 – 04/2023**  
-  **PhD in Statistics**, University of Padua (Italy)  
-  Thesis: *New approaches on statistical modeling for drug safety data*  
-  Supervisor: Prof. G. Boccuzzo, Co-supervisor: Prof. N. Tatonetti
+* **12/2019 – 06/2023**  
+  **PhD in Statistics**, University of Padua, Italy.   
+  Thesis: *On the modeling of discrete extreme values*  
+  Advisors:  <a href="https://www.unive.it/data/people/5591383" target="_blank" rel="noopener noreferrer">Carlo Gaetan</a> & <a href="[https://www.lsce.ipsl.fr/en/pisp/philippe-naveau/" target="_blank" rel="noopener noreferrer">Philippe Naveau</a>
 
 * **10/2016 – 03/2019**  
   **Master’s Degree in Statistical Sciences**, University of Padua (Italy)
