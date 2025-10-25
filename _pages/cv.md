@@ -12,8 +12,7 @@ redirect_from:
 ![My memory at Capri](/images/capri.jpg)
 *Capri, Italy*
 
-Current Position
-======
+<h2>Current Position</h2>
 * **11/2025 – ongoing**  
   **University of Oslo, Norway**  
   **<a href="https://www.uio.no/dscience/english/" target="_blank" rel="noopener noreferrer">DSTrain-MSCA</a> Postdoctoral Research Fellow**  
