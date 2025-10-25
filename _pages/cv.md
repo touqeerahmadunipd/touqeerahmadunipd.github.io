@@ -9,56 +9,76 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position
+======
+* **08/2023 – ongoing**  
+  **University of Padua (Italy)**  
+  **Researcher (RTDa) in Social Statistics (secs-s/05)**  
+  Main project: *AGE - IT - A novel public-private alliance to generate socioeconomic, biomedical and technological solutions for an inclusive Italian Ageing Society.*
+
+Previous Positions
+======
+* **01/2023 – 07/2023**  
+  **University of Padua (Italy)**  
+  Postdoctoral Fellow, Department of Statistical Sciences  
+  PRIN project: *Social and Health Frailty as determinants of Inequality in Aging (SOFIA)*  
+  Supervisor: Prof. G. Boccuzzo
+
+* **04/2019 – 11/2019**  
+  **European Institute of Oncology, Milan (Italy)**  
+  Statistician, Department of Experimental Oncology  
+  Main interests: medical statistics, survival analysis, meta-analysis, data mining, and machine learning applications in medicine  
+  Supervisor: Prof. S. Gandini
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **10/2019 – 04/2023**  
+  **PhD in Statistics**, University of Padua (Italy)  
+  Thesis: *New approaches on statistical modeling for drug safety data*  
+  Supervisor: Prof. G. Boccuzzo, Co-supervisor: Prof. N. Tatonetti
 
-Work experience
+* **10/2016 – 03/2019**  
+  **Master’s Degree in Statistical Sciences**, University of Padua (Italy)
+
+* **10/2013 – 09/2016**  
+  **Bachelor’s Degree in Statistics**, University of Padua (Italy)
+
+Visiting Periods
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **02/2022 – 08/2022**  
+  **Columbia University (New York, USA)**  
+  Visiting period, Department of Biomedical Informatics
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **08/2017 – 01/2018**  
+  **Århus University (Denmark)**  
+  Erasmus student, Mathematics and Statistics Master’s Degree
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Other Work Experience
+======
+* **08/2018 – 03/2019**  
+  **Veneto Cancer Registry, Padua (Italy)**  
+  Research internship for Master’s Thesis  
+  Supervisor: Dr. M. Zorzi
+
+* **11/2018 – 01/2019**  
+  **Regional Healthcare System, Padua (Italy)**  
+  Statistician, Diabetology Department  
+  Research project: *Statistical Evaluations of the Diabetes Screening*
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Professional:**  
+Theoretical and applied statistics (clinical data analysis), Data Mining & Machine Learning, Epidemiology, Text Mining & Sentiment Analysis, Survival Analysis
 
-Publications
+**Programming Languages & Software:**  
+* **R:** data wrangling, statistical modeling, data mining & machine learning, package development, data visualization (advanced)  
+* **Python, SAS:** statistical modeling (basic)  
+* **MS Office Suite:** advanced user  
+* **LaTeX, Markdown:** document creation and editing (proficient)  
+* **Machine learning libraries:** Keras, TensorFlow, Torch (basic)  
+* **Version control:** GitHub (usual user)
+
+Languages
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Italian: Mother tongue  
+* English: Fluent (C1)
