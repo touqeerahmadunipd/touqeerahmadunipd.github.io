@@ -14,11 +14,7 @@ redirect_from:
 
 Selected Publications
 ======
-* **11/2025 – ongoing**  
-  **University of Oslo, Norway**  
-  **DSTrain-MSCA Postdoctoral Research Fellow**  
-  Project: *Stochastic Modeling of Natural Processes*<br>
-  Collaborator: <a href="https://www.mn.uio.no/math/english/people/aca/thordist/" target="_blank" rel="noopener noreferrer">Thordis Linda Thorarinsdottir</a>
+* **Ahmad, T**., Kalan, M.M., Portier, F., Stupfler, G. (2025). Concentration and excess risk bounds for imbalanced classification with synthetic oversampling, Advances in Neural Information Processing Systems (NeurIPS) 38, to appear. <a href="https://doi.org/10.48550/arXiv.2510.20472" target="_blank" rel="noopener noreferrer">Link</a>
 
 
 Previous Positions
