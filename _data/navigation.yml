@@ -24,7 +24,8 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /files/Touqeer_CV.pdf
+    url: /cv/
+  # url: /files/Touqeer_CV.pdf
     
   # - title: "CV"
   #   url: /cv-json/
