@@ -36,6 +36,10 @@ News
     <a href="https://doi.org/10.48550/arXiv.2504.11058" target="_blank" rel="noopener noreferrer">here</a>.
   </li>
   <li>
+     A new composite Mann-Whitney test for two-sample survival comparisons with right-censored data <strong>preprint<strong> available— see it 
+    <a href="https://doi.org/10.48550/arXiv.2510.05353" target="_blank" rel="noopener noreferrer">here</a>.
+  </li>
+  <li>
      I will be <strong>joining the University of Oslo</strong> starting <strong>November 1st</strong>.
   </li>
 </ul>
