@@ -12,7 +12,6 @@ redirect_from:
 ![My memory at Capri](/images/capri1.jpg)
 *Capri, Italy*
 
-======
 <h2>Invited Talks</h2>
 <ol>
   <li>
@@ -39,8 +38,30 @@ redirect_from:
   </li>
 </ol>
 
-======
 <h2>Conbributed Talks</h2>
+<ol>
+  <li>
+    <strong>Ahmad, T.</strong>, &amp; Portier, F., Stupfler, G. (2024). 
+    <em>Local logistic regression for dimension reduction in classification.</em>
+    Presented at the <strong>International Symposium on Nonparametric Statistics (ISNPS 2024)</strong>, Braga, Portugal.
+    <strong>Date:</strong> 25–29 June 2024.
+  </li>
+
+  <li>
+    <strong>Ahmad, T.</strong>, &amp; Portier, F., Stupfler, G. (2024). 
+    <em>Dimension reduction for binary classification problems.</em>
+    Presented at the <strong>Causality in Extremes Workshop and Mini-Courses</strong>, University of Geneva, Geneva, Switzerland.
+    <strong>Date:</strong> 12–16 February 2024.
+  </li>
+
+  <li>
+    <strong>Ahmad, T.</strong>, &amp; Gaetan, C. (2023). 
+    <em>A latent process model for discrete extremes.</em>
+    Presented at the <strong>13th International Conference of Extreme Value Analysis (EVA 2023)</strong>, Bocconi University, Milan, Italy.
+    <strong>Date:</strong> 26–30 June 2023.
+  </li>
+</ol>
+
 
 1. **Ahmad, T.,** Gaetan, C., & Naveau, P. (2025).  <a href="https://doi.org/10.48550/arXiv.2510.20472" target="_blank" rel="noopener noreferrer">Concentration and excess risk bounds for imbalanced classification with synthetic oversampling</a>. <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, **38**, to appear.
 2. **Ahmad, T.,** & Ahmad, I. A. (2025). <a href="https://doi.org/10.48550/arXiv.2409.18719" target="_blank" rel="noopener noreferrer">New flexible versions of extended generalized Pareto model for count data.</a> <i>Journal of Applied Statistics</i>, to appear. 
