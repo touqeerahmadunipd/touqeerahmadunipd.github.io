@@ -14,7 +14,7 @@ redirect_from:
 
 Selected Publications
 ======
-* **Ahmad, T**., Kalan, M.M., Portier, F., Stupfler, G. (2025). Concentration and excess risk bounds for imbalanced classification with synthetic oversampling, <i>Advances in Neural Information Processing Systems (NeurIPS)</i> **38**, to appear. <a href="https://doi.org/10.48550/arXiv.2510.20472" target="_blank" rel="noopener noreferrer">Link</a>
+1. **Ahmad, T**., Kalan, M.M., Portier, F., Stupfler, G. (2025). Concentration and excess risk bounds for imbalanced classification with synthetic oversampling, <i>Advances in Neural Information Processing Systems (NeurIPS)</i> **38**, to appear. <a href="https://doi.org/10.48550/arXiv.2510.20472" target="_blank" rel="noopener noreferrer">Link</a>
 
 
 
