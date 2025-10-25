@@ -87,3 +87,9 @@ Languages
 * French: Basic (A2)
 * Norwegian: Basic (A1)
 * English: Fluent (C1)
+
+Detailed CV
+======
+<p><em>For the detailed version of my CV, please see the <a href="{{ '/files/Touqeer_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">PDF version</a>.</em></p>
+
+  
