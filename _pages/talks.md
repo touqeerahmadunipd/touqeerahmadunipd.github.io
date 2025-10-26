@@ -10,7 +10,7 @@ redirect_from:
 <!-- Memory picture -->
 <div style="display:inline-block; text-align:left; line-height:1;">
   <img src="/images/msaintmich1.png" alt="My memory at France" style="height:500px;">
-   <em>Mont Saint-Michel, France</em>
+   <em>Mont Saint-Michel, Bretagne, France</em>
 </div>
 
 
