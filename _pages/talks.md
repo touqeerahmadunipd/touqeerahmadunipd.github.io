@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <!-- Memory picture -->
-![My memory at ENSAI](/images/ENSAI.JPG)
+![My memory at ENSAI](/images/ENSAI.jpg)
 *Outview, Ensai, France*
 
 <h2>Invited Talks</h2>
