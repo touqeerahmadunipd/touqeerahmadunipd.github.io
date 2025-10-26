@@ -8,8 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 <!-- Memory picture -->
-![My memory at Capri](/images/capri1.jpg)
-*Capri, Italy*
+![My memory at Venice](/images/venice1.jpg)
+*Calm Venice, Italy*
 
 
 ## Teaching Experience 2
