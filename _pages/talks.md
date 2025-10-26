@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 <!-- Memory picture -->
-![My memory at Capri](/images/capri1.jpg)
-*Capri, Italy*
+![My memory at ENSAI](/images/ENSAI.JPG)
+*Outview, Ensai, France*
 
 <h2>Invited Talks</h2>
 <ol>
