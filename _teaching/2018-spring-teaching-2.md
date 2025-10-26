@@ -7,16 +7,12 @@ venue: "Govt. Hashmat Ali Islamia College, Department of Statistics"
 date: 2018-02-14--30-11-2019
 location: "Rawalpindi, Pakistan"
 ---
-{% include base_path %}
-<!-- Memory picture -->
-![My memory at Capri](/images/capri.jpg)
-*Capri, Italy*
 
 
 ## Teaching Summary
 
-During my time at **Govt. Hashmat Ali Islamia College**, I taught several undergraduate-level courses in the Department of Statistics.  
-My primary responsibilities included delivering lectures, conducting tutorials, and organizing workshops focused on practical applications using **R software**.
+During my time at the **Govt. Hashmat Ali Islamia College**, I taught several undergraduate-level courses in the Department of Statistics.  
+My primary responsibilities included delivering lectures, conducting tutorials, and organizing workshops focused on practical applications of **R** software.
 
 ---
 
@@ -25,7 +21,7 @@ My primary responsibilities included delivering lectures, conducting tutorials, 
 ### 1. Introductory Statistics (45 hours)  
 **Period:** Feb 2018 – June 2018  
 
-This course covered the basic concepts of statistics for bachelor students.  
+This course covered the basic concepts of statistics for bachelor's students.  
 Topics included:
 - Definition and branches of statistics  
 - Charts and graphical representation of data  
@@ -65,14 +61,14 @@ Introduced the fundamental concepts of probability theory, including:
 - Central Limit Theorem and Law of Large Numbers  
 
 **Tutorials and Workshops:**  
-Compared different distribution behaviors through simulation and visualization in R.
+Compared different distribution behaviors through simulation and visualization in **R**.
 
 ---
 
 ### 4. Business Statistics (22.5 hours)  
 **Period:** Sep 2019 – Nov 2019  
 
-Introductory statistics for commerce students. Topics covered descriptive statistics, data visualization, and basic inferential methods.  
+Introductory statistics for commerce students. Topics covered include descriptive statistics, data visualization, and basic inferential methods.  
 
 **Tutorials and Workshops:**  
 Practical exercises and data analysis in R, reinforcing statistical reasoning in business contexts.
