@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ![My memory at Ensai](/images/msaintmich.png)
-*Outview, Ensai, France*
+*Mont Saint-Michel, France*
 
 <h2>Invited Talks</h2>
 <ol>
