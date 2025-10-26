@@ -6,9 +6,13 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{% include base_path %}
+<!-- Memory picture -->
+<div style="display:inline-block; text-align:left; line-height:1;">
+  <img src="/images/msaintmich.png" alt="My memory at France" style="height:500px;">
+   <em>Mont Saint-Michel, France</em>
+</div>
 
-![My memory at Ensai](/images/msaintmich.png, style="height:500px")
-*Mont Saint-Michel, France*
 
 <h2>Invited Talks</h2>
 <ol>
