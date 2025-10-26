@@ -90,6 +90,23 @@ redirect_from:
 
 <h2>Detailed CV</h2>
 
-<p><em>For the detailed version of my CV, <a href="{{ '/files/Touqeer_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download PDF</a>.</em></p> & Analytical CV <a href="{{ '/files/Analytical_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download PDF</a>.</em></p>
+<p>
+  <em>
+    For the detailed version of my CV, 
+    <a href="{{ '/files/Touqeer_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      Download PDF
+    </a>,
+  </em>
+</p>
+
+<p>
+  <em>
+    Analytical CV: 
+    <a href="{{ '/files/Analytical_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      Download PDF
+    </a>.
+  </em>
+</p>
+
 
   
