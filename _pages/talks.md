@@ -7,10 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-<!-- Memory picture -->
-![My memory at ENSAI](/images/ENSAI.jpg)
-*Outview, Ensai, France*
+![My memory at Capri](/images/ENSAI.JPG){: height="300px" }
+*Capri, Italy*
 
 <h2>Invited Talks</h2>
 <ol>
