@@ -1,8 +1,12 @@
 ---
+layout: archive
 title: "Teaching"
 permalink: /teaching/
-layout: page
+author_profile: true
+redirect_from:
+  - /resume
 ---
+
 
 # Teaching
 
