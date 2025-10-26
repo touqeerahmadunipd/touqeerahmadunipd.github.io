@@ -10,7 +10,7 @@ redirect_from:
 <!-- Memory picture -->
 <div style="display:inline-block; text-align:center; line-height:1;">
   <img src="/images/venice1.jpg" alt="My memory at Venice" style="height:500px; width:1100px;">
-  <span style="display:block;"><em>Calm Venice, Italy</em></span>
+   <em>Calm Venice, Italy</em>
 </div>
 
 
