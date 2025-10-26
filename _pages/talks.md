@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-![My memory at Capri](/images/ENSAI.JPG){: height="300px" }
+![My memory at Capri](/images/capri.jpg)
 *Capri, Italy*
 
 <h2>Invited Talks</h2>
