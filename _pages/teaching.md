@@ -8,9 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 <!-- Memory picture -->
-![My memory at Venice](/images/venice1.jpg)
-*Calm Venice, Italy*
-
+<img src="/images/venice1.jpg" alt="My memory at Venice" style="height:200px; object-fit:cover;">
+<p><em>Calm Venice, Italy</em></p>
 
 ## Teaching Experience 2
 **Undergraduate Courses**  
