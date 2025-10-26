@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-![My memory at Ensai](/images/ensai1.jpg)
+![My memory at Ensai](/images/msaintmich.png)
 *Outview, Ensai, France*
 
 <h2>Invited Talks</h2>
