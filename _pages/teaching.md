@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 <!-- Memory picture -->
 <div style="display:inline-block; text-align:left; line-height:1;">
-  <img src="/images/venice1.jpg" alt="My memory at Venice" style="height:500px; width:1100px;">
+  <img src="/images/chattue.jpg" alt="My memory at Venice" style="height:500px; width:1100px;">
    <em>Calm Venice, Italy</em>
 </div>
 
