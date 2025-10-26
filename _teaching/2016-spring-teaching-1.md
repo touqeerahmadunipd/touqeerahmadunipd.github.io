@@ -11,7 +11,7 @@ location: "Islamabad, Pakistan"
 ## Teaching Summary
 
 As a **Teaching Assistant Lecturer** in the **Department of Statistics, Allama Iqbal Open University (AIOU), Islamabad**, I taught several postgraduate-level statistics courses from **July 2016 to January 2018**.  
-My responsibilities included lecturing, conducting tutorials, and organizing workshops that emphasized the application of statistical concepts using **R ** software.
+My responsibilities included lecturing, conducting tutorials, and organizing workshops that emphasized the application of statistical concepts using **R** software.
 
 ---
 
