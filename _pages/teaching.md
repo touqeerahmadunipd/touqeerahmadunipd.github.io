@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
-# Teaching
-
 ## Teaching Experience 2
 **Undergraduate Courses**  
 Govt. Hashmat Ali Islamia College, Department of Statistics, 2018  
