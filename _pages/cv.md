@@ -95,7 +95,7 @@ redirect_from:
     For the detailed version of my CV, 
     <a href="{{ '/files/Touqeer_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
       Download PDF
-    </a>,
+    </a>.
   </em>
 </p>
 
