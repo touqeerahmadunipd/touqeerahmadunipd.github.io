@@ -10,7 +10,7 @@ redirect_from:
 <!-- Memory picture -->
 <div style="display:inline-block; text-align:left; line-height:1;">
   <img src="/images/chattue.jpg" alt="My memory at Venice" style="height:500px; width:1100px;">
-   <em>Calm Venice, Italy</em>
+   <em>Château de Vincennes, Paris</em>
 </div>
 
 
