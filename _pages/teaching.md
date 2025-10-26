@@ -6,6 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{% include base_path %}
+<!-- Memory picture -->
+![My memory at Capri](/images/capri1.jpg)
+*Capri, Italy*
+
 
 ## Teaching Experience 2
 **Undergraduate Courses**  
