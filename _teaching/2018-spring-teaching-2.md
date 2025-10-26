@@ -7,6 +7,11 @@ venue: "Govt. Hashmat Ali Islamia College, Department of Statistics"
 date: 2018-02-14--30-11-2019
 location: "Rawalpindi, Pakistan"
 ---
+{% include base_path %}
+<!-- Memory picture -->
+![My memory at Capri](/images/capri.jpg)
+*Capri, Italy*
+
 
 ## Teaching Summary
 
