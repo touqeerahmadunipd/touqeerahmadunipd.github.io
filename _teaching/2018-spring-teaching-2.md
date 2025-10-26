@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Courses"
 permalink: /teaching/2018-spring-teaching-1
 venue: "Govt. Hashmat Ali Islamia College, Department of Statistics"
 date: 2018-02-14
