@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-![My memory at Capri](/images/capri.jpg)
-*Capri, Italy*
+![My memory at Ensai](/images/ensai1.jpg)
+*Outview, Ensai, France*
 
 <h2>Invited Talks</h2>
 <ol>
