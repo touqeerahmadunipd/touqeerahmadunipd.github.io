@@ -30,7 +30,7 @@ redirect_from:
   Collaborators:  <a href="https://www.idpoisson.fr/chauveau/" target="_blank" rel="noopener noreferrer">Didier Chauveau</a> & <a href="https://www.univ-orleans.fr/lifo/membre/Sophie.JACQUOT" target="_blank" rel="noopener noreferrer">Sophie Jacquot</a>
 
 * **05/2023 – 04/2025**  
-  **CREST, ENSAI, Bruz, France**
+  **CREST, ENSAI, Bruz, France**<br> 
   Postdoctoral Research Fellow<br> 
   Project: *Machine learning and data mining of extreme values in massive data*  
   Collaborators:  <a href="https://sites.google.com/site/fportierwebpage/" target="_blank" rel="noopener noreferrer">François Portier</a> & <a href="https://math.univ-angers.fr/~stupfler/" target="_blank" rel="noopener noreferrer">Gilles Stupfler</a>
