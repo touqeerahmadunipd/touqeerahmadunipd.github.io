@@ -38,7 +38,7 @@ redirect_from:
 <h2>Education</h2>
 
 * **12/2019 – 06/2023**  
-  **PhD in Statistics (with Doctor Europaeus Label)**, University of Padua, Italy.   
+  **PhD in Statistics (with doctor of Europaeus label)**, University of Padua, Italy.   
   Thesis: *On the modeling of discrete extreme values*  
   Advisors:  <a href="https://www.unive.it/data/people/5591383" target="_blank" rel="noopener noreferrer">Carlo Gaetan</a> & <a href="https://www.lsce.ipsl.fr/en/pisp/philippe-naveau/" target="_blank" rel="noopener noreferrer">Philippe Naveau</a>
 
