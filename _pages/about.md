@@ -44,6 +44,11 @@ I am particularly interested in:
   </li>
 </ul>
 
+*Upcoming conferences*
+
+
+
+
 <h2>For more info</h2>
 <p>
   For more information, feel free to email me.
