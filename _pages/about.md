@@ -26,6 +26,10 @@ I am particularly interested in:
 
 <h2>News</h2>
 <ul>
+   <li>
+    Flexible model for varying levels of zeros and outliers in count data <strong>preprint</strong> available at 
+    <a href="https://arxiv.org/abs/2510.27365" target="_blank" rel="noopener noreferrer">here</a>.
+  </li>
   <li>
     The paper has recently been accepted at <strong>NeurIPS</strong> — take a look at it 
     <a href="https://doi.org/10.48550/arXiv.2510.20472" target="_blank" rel="noopener noreferrer">here</a>.
