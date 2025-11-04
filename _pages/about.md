@@ -44,7 +44,7 @@ I am particularly interested in:
   </li>
 </ul>
 
-*Upcoming conferences*
+**Upcoming conferences**
 
 
 
