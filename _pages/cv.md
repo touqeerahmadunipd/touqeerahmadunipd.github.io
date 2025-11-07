@@ -73,13 +73,9 @@ redirect_from:
 
 <h2>Review Activities for Journals</h2>
 
-* **02/2018 – 11/2019**  
-  **Higher Education Department Govt. of Punjab, Pakistan**  
-  Lecture Statistics  
-
-* **07/2016 – 01/2018**  
-  **Department of Statistics, AIOU, Islamabad, Pakistan**  
-  Teaching Assistant  
+Journal of the Royal Statistical Society Series C, Econometrics and Statistics, Environmental and Ecological Statistics,
+Journal of Agricultural, Biological, and Environmental Statistics, Environmental Science and Pollution Research, Heliyon,
+International Journal of Climatology
 
 
 
