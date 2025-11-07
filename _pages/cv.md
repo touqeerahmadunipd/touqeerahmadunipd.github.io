@@ -70,6 +70,21 @@ redirect_from:
   **Department of Statistics, AIOU, Islamabad, Pakistan**  
   Teaching Assistant  
 
+
+<h2>Review Activities for Journals</h2>
+
+* **02/2018 – 11/2019**  
+  **Higher Education Department Govt. of Punjab, Pakistan**  
+  Lecture Statistics  
+
+* **07/2016 – 01/2018**  
+  **Department of Statistics, AIOU, Islamabad, Pakistan**  
+  Teaching Assistant  
+
+
+
+
+
 <h2>Skills</h2>
 
 **Programming Languages & Software:**  
