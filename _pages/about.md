@@ -55,11 +55,12 @@ I am particularly interested in:
 </p>
 
 <p><strong>Preferred:</strong><br>
-  touqeer.ahmad [at] univ-orleans.fr<br>
+  touqeera@math.uio.no
   touqeer.ahmad8960 [at] gmail.com
 </p>
 
 <p><strong>Deprecated:</strong><br>
+  touqeer.ahmad [at] univ-orleans.fr<br>
   touqeer.ahmad [at] ensai.fr<br>
   touqeer.ahmad [at] phd.unipd.it
 </p>
