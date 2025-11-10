@@ -55,7 +55,7 @@ I am particularly interested in:
 </p>
 
 <p><strong>Preferred:</strong><br>
-  touqeera@math.uio.no<br>
+  touqeera[at]math.uio.no<br>
   touqeer.ahmad8960 [at] gmail.com
 </p>
 
