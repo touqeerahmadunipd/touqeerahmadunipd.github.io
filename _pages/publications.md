@@ -48,7 +48,7 @@ redirect_from:
     <a href="https://doi.org/10.1007/s00181-025-02784-3" target="_blank" rel="noopener noreferrer">
       Novel modeling for assessment of extreme values risk in cryptocurrencies portfolio
     </a>. 
-    <i>Empirical Economics</i>, to appear.
+   <i>Empirical Economics</i>, <strong>69</strong>(1), 2065–2092.
   </li>
 
   <li><strong>Ahmad, T.</strong>, Gaetan, C., & Naveau, P. (2025). 
