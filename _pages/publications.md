@@ -62,15 +62,38 @@ redirect_from:
 
 
 <h2>Preprints</h2>
-1. Hussain, A., & **Ahmad, T.** (2025).  <a href="https://doi.org/10.48550/arXiv.2510.05353" target="_blank" rel="noopener noreferrer">A new composite Mann-Whitney test for two-sample survival comparisons with right-censored data</a>. 
-2. **Ahmad, T.,** & Hasan, T. (2025). <a href="https://doi.org/10.48550/arXiv.2507.15099" target="_blank" rel="noopener noreferrer">Space time modeling for drought classification and prediction.</a>. 
 
-3. Hasan, T., & **Ahmad, T.,** (2024). <a href="https://doi.org/10.48550/arXiv.2410.22501" target="_blank" rel="noopener noreferrer">Order of Addition in Orthogonally Blocked Mixture and Component-Amount Designs.</a>
+<ol>
+  <li>Hussain, A., & <strong>Ahmad, T.</strong> (2025). 
+    <a href="https://doi.org/10.48550/arXiv.2510.05353" target="_blank" rel="noopener noreferrer">
+      A new composite Mann–Whitney test for two-sample survival comparisons with right-censored data
+    </a>.
+  </li>
 
-4. **Ahmad, T.,** Portier, F., & Stupfler, G. (2024). <a href="https://doi.org/10.48550/arXiv.2407.08485" target="_blank" rel="noopener noreferrer">Logistic lasso regression with nearest neighbors for gradient-based dimension reduction.</a>  
+  <li><strong>Ahmad, T.</strong>, & Hasan, T. (2025). 
+    <a href="https://doi.org/10.48550/arXiv.2507.15099" target="_blank" rel="noopener noreferrer">
+      Space–time modeling for drought classification and prediction
+    </a>.
+  </li>
 
+  <li>Hasan, T., & <strong>Ahmad, T.</strong> (2024). 
+    <a href="https://doi.org/10.48550/arXiv.2410.22501" target="_blank" rel="noopener noreferrer">
+      Order of addition in orthogonally blocked mixture and component–amount designs
+    </a>.
+  </li>
 
-<h2>To look at all my research papers</h2>
-Please visit my 
-<a href="https://scholar.google.com/citations?user=0Unv8IAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>.
+  <li><strong>Ahmad, T.</strong>, Portier, F., & Stupfler, G. (2024). 
+    <a href="https://doi.org/10.48550/arXiv.2407.08485" target="_blank" rel="noopener noreferrer">
+      Logistic lasso regression with nearest neighbors for gradient-based dimension reduction
+    </a>.
+  </li>
+</ol>
+
+<h2>To view all my research papers</h2>
+<p>
+  Please visit my 
+  <a href="https://scholar.google.com/citations?user=0Unv8IAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+    Google Scholar profile
+  </a>.
+</p>
 
