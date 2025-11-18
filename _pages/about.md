@@ -35,8 +35,8 @@ I am particularly interested in:
     <a href="https://doi.org/10.48550/arXiv.2510.20472" target="_blank" rel="noopener noreferrer">here</a>.
   </li>
   <li>
-    The paper has recently been accepted in <strong>Communications in Statistics – Simulation and Computation</strong> — see it 
-    <a href="https://doi.org/10.48550/arXiv.2504.11058" target="_blank" rel="noopener noreferrer">here</a>.
+    Modeling zero-inflated precipitation extremes has been published online in <strong>Communications in Statistics – Simulation and Computation</strong> — see it 
+    <a href="https://doi.org/10.1080/03610918.2025.2585398" target="_blank" rel="noopener noreferrer">here</a>.
   </li>
   <li>
     A new composite Mann–Whitney test for two-sample survival comparisons with right-censored data <strong>preprint</strong> available — see it 
