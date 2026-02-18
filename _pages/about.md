@@ -27,7 +27,7 @@ I am particularly interested in:
 <h2>News</h2>
 <ul>
   <li>
-    Released new R <a href="https://github.com/sdwfrost/egpd" target="_blank" rel="noopener noreferrer">egpd</a> pacakge joint with <a href="https://www.lshtm.ac.uk/aboutus/people/frost.simon" target="_blank" rel="noopener noreferrer">Simon Frost</a>.
+    Released new R <a href="https://github.com/sdwfrost/egpd" target="_blank" rel="noopener noreferrer">egpd</a> pacakge jointly with <a href="https://www.lshtm.ac.uk/aboutus/people/frost.simon" target="_blank" rel="noopener noreferrer">Simon Frost</a>.
   </li>
    <li>
     Flexible model for varying levels of zeros and outliers in count data <strong>preprint</strong> available at 
