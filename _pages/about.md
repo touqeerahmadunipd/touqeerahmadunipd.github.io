@@ -29,6 +29,10 @@ I am particularly interested in:
   <li>
     Released new R <a href="https://github.com/sdwfrost/egpd" target="_blank" rel="noopener noreferrer">egpd</a> pacakge jointly with <a href="https://www.lshtm.ac.uk/aboutus/people/frost.simon" target="_blank" rel="noopener noreferrer">Simon Frost</a>.
   </li>
+  <li>
+    New flexible versions of the extended generalized Pareto distribution for count data have been accepted for publication in <strong>Journal of Applied Statistics</strong> — see it 
+    <a href="" target="_blank" rel="noopener noreferrer"></a>.
+  </li>
    <li>
     Flexible model for varying levels of zeros and outliers in count data <strong>preprint</strong> available at 
     <a href="https://arxiv.org/abs/2510.27365" target="_blank" rel="noopener noreferrer">here</a>.
