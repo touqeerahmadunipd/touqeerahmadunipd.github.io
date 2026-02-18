@@ -26,6 +26,10 @@ I am particularly interested in:
 
 <h2>News</h2>
 <ul>
+  <li>
+    Released new R pacakge 
+    <a href="https://arxiv.org/abs/2510.27365" target="_blank" rel="noopener noreferrer">here</a>.
+  </li>
    <li>
     Flexible model for varying levels of zeros and outliers in count data <strong>preprint</strong> available at 
     <a href="https://arxiv.org/abs/2510.27365" target="_blank" rel="noopener noreferrer">here</a>.
