@@ -31,7 +31,6 @@ I am particularly interested in:
   </li>
   <li>
     New flexible versions of the extended generalized Pareto distribution for count data have been accepted for publication in <strong>Journal of Applied Statistics</strong> 
-    #— see it 
     <a href="" target="_blank" rel="noopener noreferrer"></a>.
   </li>
    <li>
