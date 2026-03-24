@@ -34,7 +34,7 @@ redirect_from:
     <a href="https://doi.org/10.1080/03610918.2025.2585398" target="_blank" rel="noopener noreferrer">
       Modeling zero-inflated precipitation extremes
     </a>. 
-    <i>Communications in Statistics – Simulation and Computation</i>.
+    <i>Communications in Statistics – Simulation and Computation</i>.<strong>1-17</strong>.
   </li>
 
   <li>Hasan, T., & <strong>Ahmad, T.</strong> (2025). 
