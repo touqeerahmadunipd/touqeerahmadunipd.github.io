@@ -27,14 +27,14 @@ redirect_from:
     <a href="https://doi.org/10.1080/02664763.2026.2634785" target="_blank" rel="noopener noreferrer">
       New flexible versions of the extended generalized Pareto model for count data
     </a>. 
-    <i>Journal of Applied Statistics</i>.
+    <i>Journal of Applied Statistics</i>1-21.
   </li>
 
   <li>Abbas, A., <strong>Ahmad, T.</strong>, & Ahmad, I. (2025). 
     <a href="https://doi.org/10.1080/03610918.2025.2585398" target="_blank" rel="noopener noreferrer">
       Modeling zero-inflated precipitation extremes
     </a>. 
-    <i>Communications in Statistics – Simulation and Computation</i>.<strong>1-17</strong>.
+    <i>Communications in Statistics – Simulation and Computation</i>.1-17.
   </li>
 
   <li>Hasan, T., & <strong>Ahmad, T.</strong> (2025). 
