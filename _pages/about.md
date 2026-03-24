@@ -26,13 +26,11 @@ I am particularly interested in:
 
 <h2>News</h2>
 <ul>
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
    <li>
-    Regional modeling of zero-inflated precipitation in Pakistan by classical and Bayesian approaches <a href="https://doi.org/10.1016/j.ejrh.2026.103330" target="_blank" rel="noopener noreferrer">link</a> <a href="https://doi.org/10.1016/j.ejrh.2026.103330" target="_blank" rel="noopener noreferrer"></a>.
+    Regional modeling of zero-inflated precipitation in Pakistan by classical and Bayesian approaches has been published online in <strong>Journal of Hydrology: Regional Studies</strong> — see it 
+    <a https://doi.org/10.1016/j.ejrh.2026.103330" target="_blank" rel="noopener noreferrer">here</a>.
   </li>
-  <li>
-
-
   
   <li>
     Released new R <a href="https://github.com/sdwfrost/egpd" target="_blank" rel="noopener noreferrer">egpd</a> pacakge jointly with <a href="https://www.lshtm.ac.uk/aboutus/people/frost.simon" target="_blank" rel="noopener noreferrer">Simon Frost</a>.
