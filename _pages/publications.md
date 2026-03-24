@@ -24,14 +24,14 @@ redirect_from:
   </li>
 
   <li><strong>Ahmad, T.</strong>, & Ahmad, I. A. (2025). 
-    <a href="https://doi.org/10.48550/arXiv.2409.18719" target="_blank" rel="noopener noreferrer">
-      New flexible versions of extended generalized Pareto model for count data
+    <a href="https://doi.org/10.1080/02664763.2026.2634785" target="_blank" rel="noopener noreferrer">
+      New flexible versions of the extended generalized Pareto model for count data
     </a>. 
     <i>Journal of Applied Statistics</i>, to appear.
   </li>
 
   <li>Abbas, A., <strong>Ahmad, T.</strong>, & Ahmad, I. (2025). 
-    <a href="https://doi.org/10.48550/arXiv.2504.11058" target="_blank" rel="noopener noreferrer">
+    <a href="https://doi.org/10.1080/03610918.2025.2585398" target="_blank" rel="noopener noreferrer">
       Modeling zero-inflated precipitation extremes
     </a>. 
     <i>Communications in Statistics – Simulation and Computation</i>, to appear.
