@@ -26,6 +26,13 @@ I am particularly interested in:
 
 <h2>News</h2>
 <ul>
+
+   <li>
+    Order-of-addition in mixture and component-amount designs in orthogonal blocks has been published online in <strong> Journal of Biopharmaceutical Statistics</strong> — see it 
+    <a href="https://doi.org/10.1080/10543406.2026.2680927" target="_blank" rel="noopener noreferrer">here</a>.
+  </li>
+  
+  
    <li>
     Regional modeling of zero-inflated precipitation in Pakistan by classical and Bayesian approaches has been published online in <strong>Journal of Hydrology: Regional Studies</strong> — see it 
     <a href="https://doi.org/10.1016/j.ejrh.2026.103330" target="_blank" rel="noopener noreferrer">here</a>.
