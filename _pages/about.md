@@ -76,7 +76,7 @@ I am particularly interested in:
 </ul>
 
 
-###############################
+----------------
 <h2>For more info</h2>
 <p>
   For more information, feel free to email me.
