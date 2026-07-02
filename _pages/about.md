@@ -68,8 +68,8 @@ I am particularly interested in:
 <ul>
 
    <li>
-    40th International Workshop on Statistical Modelling. </strong> More information 
-    <a href="https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/conferences/iwsm2026/" target="_blank" rel="noopener noreferrer">here</a>.
+    40th International Workshop on Statistical Modelling.
+    <a href="https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/conferences/iwsm2026/" target="_blank" rel="noopener noreferrer">More information</a>.
   </li>
   
 
