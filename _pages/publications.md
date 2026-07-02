@@ -79,21 +79,10 @@ redirect_from:
 <h2>Preprints</h2>
 
 <ol>
-  <li>Hussain, A., & <strong>Ahmad, T.</strong> (2025). 
-    <a href="https://doi.org/10.48550/arXiv.2510.05353" target="_blank" rel="noopener noreferrer">
-      A new composite Mann–Whitney test for two-sample survival comparisons with right-censored data
-    </a>.
-  </li>
 
   <li><strong>Ahmad, T.</strong>, & Hasan, T. (2025). 
     <a href="https://doi.org/10.48550/arXiv.2507.15099" target="_blank" rel="noopener noreferrer">
       Space–time modeling for drought classification and prediction
-    </a>.
-  </li>
-
-  <li>Hasan, T., & <strong>Ahmad, T.</strong> (2024). 
-    <a href="https://doi.org/10.48550/arXiv.2410.22501" target="_blank" rel="noopener noreferrer">
-      Order of addition in orthogonally blocked mixture and component–amount designs
     </a>.
   </li>
 
