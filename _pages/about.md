@@ -63,12 +63,11 @@ I am particularly interested in:
   </li>
 </ul>
 
-**Upcoming conferences**
-<h2>News</h2>
+<h2>Upcoming conferences</h2>
 <ul>
 
    <li>
-    40th International Workshop on Statistical Modelling.
+    40th International Workshop on Statistical Modelling (June-28 t0 02 July 2026).
     <a href="https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/conferences/iwsm2026/" target="_blank" rel="noopener noreferrer">More information</a>.
   </li>
   
