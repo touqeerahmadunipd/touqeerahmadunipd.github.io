@@ -16,6 +16,16 @@ redirect_from:
 
 <h2>Invited Talks</h2>
 <ol>
+
+
+ <li>
+    <strong>Ahmad, T.</strong>, Francois Portier, & Gilles Stupfler (2026). 
+    <em>Nearest-Neighbor LASSO Logistic Regression for Gradient.</em>
+    Presented at the <strong>Workshop on High-Dimensional Statistical Learning</strong>, 
+    Oslo Centre for Biostatistics and Epidemiology (OCBE). <strong>Date:</strong> May 21, 2026.
+  </li>
+
+  
   <li>
     <strong>Ahmad, T.</strong>, Gaetan, C., & Naveau, P. (2024). 
     <em>An extended generalized Pareto regression model for count data.</em>
