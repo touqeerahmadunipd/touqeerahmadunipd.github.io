@@ -86,9 +86,11 @@ Modeling Low Threshold Exceedances.</em>
   <li>
     <strong>Ahmad, T.</strong>, &amp; Gaetan, C. (2023). 
     <em>A latent process model for discrete extremes.</em>
-    Presented at the <strong>13th International Conference of Extreme Value Analysis (EVA 2023)</strong>, Bocconi University, Milan, Italy.
-    <strong>Date:</strong> 26–30 June 2023.
-  </li>
+    Presented at the <strong>13th International Conference of Extreme Value Analysis (EVA 2023)</strong>, Bocconi University, Milan, Italy. <strong> 26–30 June 2023</strong>.
+  <a href="{{ '/files/EVA_2023.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+    Slides
+  </a>.
+</li>
 
   <li>
     <strong>Ahmad, T.</strong>, Gaetan, C., &amp; Naveau, P. (2022). 
