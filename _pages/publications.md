@@ -17,6 +17,31 @@ redirect_from:
 
 <ol>
 
+
+<li>
+  Hussain, A., &amp; <strong>Ahmad, T.</strong> (2026).
+  <a href="https://doi.org/10.1080/00949655.2026.2660176" target="_blank" rel="noopener noreferrer">
+    A new composite Mann-Whitney test for two-sample survival comparisons with right-censored data
+  </a>.
+  <i>Journal of Statistical Computation and Simulation</i>, 1–21.
+</li>
+
+<li>
+  <strong>Ahmad, T.</strong>, Kalan, M. M., Portier, F., &amp; Stupfler, G. (2025).
+  <a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/e715ad3d527e246af3ab286c3f3d367c-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer">
+    Concentration and excess risk bounds for imbalanced classification with synthetic oversampling
+  </a>.
+  <i>Advances in Neural Information Processing Systems (NeurIPS)</i>.
+</li>
+
+<li>
+  <strong>Ahmad, T.</strong>, &amp; Ahmad, I. A. (2025).
+  <a href="https://doi.org/10.1080/02664763.2026.2634785" target="_blank" rel="noopener noreferrer">
+    New flexible versions of the extended generalized Pareto model for count data
+  </a>.
+  <i>Journal of Applied Statistics</i>, 1–21.
+</li>
+
  <li> Hussain, A., & <strong>Ahmad, T.<strong> (2026). 
     <a href="https://doi.org/10.1080/00949655.2026.2660176" target="_blank" rel="noopener noreferrer">
      A new composite Mann-Whitney test for two-sample survival comparisons with right-censored data
