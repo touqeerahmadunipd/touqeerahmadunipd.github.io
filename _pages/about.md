@@ -65,7 +65,11 @@ I am particularly interested in:
 
 **Upcoming conferences**
 
-
+   <li>
+    40th International Workshop on Statistical Modelling. </strong> — More information 
+    <a href="https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/conferences/iwsm2026/" target="_blank" rel="noopener noreferrer">here</a>.
+  </li>
+  
 
 
 <h2>For more info</h2>
