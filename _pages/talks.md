@@ -19,6 +19,19 @@ redirect_from:
 
 
 <li>
+  <strong>Ahmad, T.</strong>, &amp;Thordis L. Thorarinsdottir (2026).
+  <em>A New Extension of the Generalized Pareto Distribution for
+Modeling Low Threshold Exceedances.</em>
+  Presented at the <strong>40th International Workshop on Statistical Modelling (IWSM), 2026</strong>,
+  University of Oslo, Norway,
+  <strong> June 28 to July 03, 2026</strong>.
+  <a href="{{ '/files/IWSM2026_slide_Touqeer.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+    Slides
+  </a>.
+</li>
+
+
+<li>
   <strong>Ahmad, T.</strong>, François Portier, &amp; Gilles Stupfler (2026).
   <em>Nearest-Neighbor LASSO Logistic Regression for Gradient Estimation.</em>
   Presented at the <strong>Workshop on High-Dimensional Statistical Learning</strong>,
