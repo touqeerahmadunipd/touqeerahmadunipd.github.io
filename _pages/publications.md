@@ -17,9 +17,9 @@ redirect_from:
 
 <ol>
 
- <li> Hussain, A. & <strong>Ahmad, T.<strong> (2026). 
+ <li> Hussain, A., & <strong>Ahmad, T.<strong> (2026). 
     <a href="https://doi.org/10.1080/00949655.2026.2660176" target="_blank" rel="noopener noreferrer">
-     A new composite Mann-Whitney test for twosample survival comparisons with right-censored data
+     A new composite Mann-Whitney test for two-sample survival comparisons with right-censored data
     </a>. 
     <i>Journal of Statistical Computation and Simulation</i>, <strong> </strong> 1-21.
    
