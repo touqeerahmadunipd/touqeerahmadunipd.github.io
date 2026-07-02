@@ -67,10 +67,14 @@ I am particularly interested in:
 <ul>
 
    <li>
-    40th International Workshop on Statistical Modelling (June-28 t0 02 July 2026).
+    40th International Workshop on Statistical Modelling. (June-28 t0 02 July 2026, University of Oslo, Norway).
     <a href="https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/conferences/iwsm2026/" target="_blank" rel="noopener noreferrer">More information</a>.
   </li>
-  
+
+    <li>
+    7th International Conference on Advances in Extreme Value Analysis and Application to Natural Hazards. (21 to 23 July 2026, Delft University of Technology, Netherlands).
+    <a href="https://evan2026.weebly.com/" target="_blank" rel="noopener noreferrer">More information</a>.
+  </li>
 
 </ul>
 
