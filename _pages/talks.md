@@ -25,7 +25,7 @@ redirect_from:
   Oslo Centre for Biostatistics and Epidemiology (OCBE), Oslo, Norway,
   <strong>May 21, 2026</strong>.
   <a href="{{ '/files/SLIDE_OCBE.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
-    Download PDF
+    Slides
   </a>.
 </li>
 
