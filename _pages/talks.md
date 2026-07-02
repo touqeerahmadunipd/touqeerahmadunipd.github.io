@@ -22,7 +22,9 @@ redirect_from:
     <strong>Ahmad, T.</strong>, Francois Portier, & Gilles Stupfler (2026). 
     <em>Nearest-Neighbor LASSO Logistic Regression for Gradient.</em>
     Presented at the <strong>Workshop on High-Dimensional Statistical Learning</strong>, 
-    Oslo Centre for Biostatistics and Epidemiology (OCBE). <strong>Date:</strong> May 21, 2026.
+    Oslo Centre for Biostatistics and Epidemiology (OCBE). <strong>Date:</strong> May 21, 2026. <a href="{{ '/files/SLIDE_OCBE.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+      Download PDF
+    </a>.
   </li>
 
   
