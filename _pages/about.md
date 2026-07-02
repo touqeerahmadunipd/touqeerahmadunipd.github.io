@@ -64,14 +64,19 @@ I am particularly interested in:
 </ul>
 
 **Upcoming conferences**
+<h2>News</h2>
+<ul>
 
    <li>
-    40th International Workshop on Statistical Modelling. </strong> — More information 
+    40th International Workshop on Statistical Modelling. </strong> More information 
     <a href="https://www.mn.uio.no/math/english/research/groups/statistics-data-science/events/conferences/iwsm2026/" target="_blank" rel="noopener noreferrer">here</a>.
   </li>
   
 
+</ul>
 
+
+###############################
 <h2>For more info</h2>
 <p>
   For more information, feel free to email me.
