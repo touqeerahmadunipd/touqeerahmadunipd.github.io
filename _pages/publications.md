@@ -22,7 +22,6 @@ redirect_from:
      A new composite Mann-Whitney test for two-sample survival comparisons with right-censored data
     </a>. 
     <i>Journal of Statistical Computation and Simulation</i>, <strong> </strong> 1-21.
-   
   </li>
 
 
@@ -31,7 +30,7 @@ redirect_from:
     <a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/e715ad3d527e246af3ab286c3f3d367c-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer">
       Concentration and excess risk bounds for imbalanced classification with synthetic oversampling
     </a>. 
-    <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, <strong></strong>.
+    <i>Advances in Neural Information Processing Systems (NeurIPS)</i> <strong></strong>.
   </li>
 
   <li><strong>Ahmad, T.</strong>, & Ahmad, I. A. (2025). 
