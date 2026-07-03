@@ -48,8 +48,11 @@ redirect_from:
     <em>A flexible novel extension of the discrete generalized Pareto distribution.</em>
     Presented at the <strong>2nd International Conference on Recent Trends in Statistics &amp; Data Analytics</strong>, 
     National University of Science and Technology (NUST), Islamabad, Pakistan.
-    <strong>Date:</strong> 14–15 December 2023.
-  </li>
+    <strong>December 14-15, 2023</strong>.
+  <a href="{{ '/files/CMstatistics2024.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+    Slides
+  </a>.
+</li>
 
   <li>
     <strong>Ahmad, T.</strong> (2022). 
