@@ -78,19 +78,6 @@ Modeling Low Threshold Exceedances.</em>
   </a>.
 </li>
   
-  <li>
-    <strong>Ahmad, T.</strong>, &amp; Portier, F., Stupfler, G. (2024). 
-    <em>Local logistic regression for dimension reduction in classification.</em>
-    Presented at the <strong>International Symposium on Nonparametric Statistics (ISNPS 2024)</strong>, Braga, Portugal.
-    <strong>Date:</strong> 25–29 June 2024.
-  </li>
-
-  <li>
-    <strong>Ahmad, T.</strong>, &amp; Portier, F., Stupfler, G. (2024). 
-    <em>Dimension reduction for binary classification problems.</em>
-    Presented at the <strong>Causality in Extremes Workshop and Mini-Courses</strong>, University of Geneva, Geneva, Switzerland.
-    <strong>Date:</strong> 12–16 February 2024.
-  </li>
 
   <li>
     <strong>Ahmad, T.</strong>, &amp; Gaetan, C. (2023). 
@@ -115,6 +102,19 @@ Modeling Low Threshold Exceedances.</em>
 <h2>Posters Presentation</h2>
 <ol>
 
+  <li>
+    <strong>Ahmad, T.</strong>, &amp; Portier, F., Stupfler, G. (2024). 
+    <em>Local logistic regression for dimension reduction in classification.</em>
+    Presented at the <strong>International Symposium on Nonparametric Statistics (ISNPS 2024)</strong>, Braga, Portugal.
+    <strong>Date:</strong> 25–29 June 2024.
+  </li>
+
+  <li>
+    <strong>Ahmad, T.</strong>, &amp; Portier, F., Stupfler, G. (2024). 
+    <em>Dimension reduction for binary classification problems.</em>
+    Presented at the <strong>Causality in Extremes Workshop and Mini-Courses</strong>, University of Geneva, Geneva, Switzerland.
+    <strong>Date:</strong> 12–16 February 2024.
+  </li>
 
 
 </ol>
