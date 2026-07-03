@@ -110,7 +110,6 @@ Modeling Low Threshold Exceedances.</em>
   <a href="{{ '/files/Poster_Braga.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
     Poster
   </a>.
-
   </li>
 
   <li>
