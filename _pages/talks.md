@@ -18,17 +18,7 @@ redirect_from:
 <ol>
 
 
-<li>
-  <strong>Ahmad, T.</strong>, &amp;Thordis L. Thorarinsdottir (2026).
-  <em>A New Extension of the Generalized Pareto Distribution for
-Modeling Low Threshold Exceedances.</em>
-  Presented at the <strong>40th International Workshop on Statistical Modelling (IWSM), 2026</strong>,
-  University of Oslo, Norway,
-  <strong> June 28 to July 03, 2026</strong>.
-  <a href="{{ '/files/IWSM2026_slide_Touqeer.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
-    Slides
-  </a>.
-</li>
+
 
 
 <li>
@@ -72,6 +62,19 @@ Modeling Low Threshold Exceedances.</em>
 
 <h2>Conbributed Talks</h2>
 <ol>
+
+<li>
+  <strong>Ahmad, T.</strong>, &amp;Thordis L. Thorarinsdottir (2026).
+  <em>A New Extension of the Generalized Pareto Distribution for
+Modeling Low Threshold Exceedances.</em>
+  Presented at the <strong>40th International Workshop on Statistical Modelling (IWSM), 2026</strong>,
+  University of Oslo, Norway,
+  <strong> June 28 to July 03, 2026</strong>.
+  <a href="{{ '/files/IWSM2026_slide_Touqeer.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+    Slides
+  </a>.
+</li>
+  
   <li>
     <strong>Ahmad, T.</strong>, &amp; Portier, F., Stupfler, G. (2024). 
     <em>Local logistic regression for dimension reduction in classification.</em>
