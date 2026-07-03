@@ -47,8 +47,11 @@ Modeling Low Threshold Exceedances.</em>
     <strong>Ahmad, T.</strong>, Gaetan, C., & Naveau, P. (2024). 
     <em>An extended generalized Pareto regression model for count data.</em>
     Presented at the <strong>17th International Conference of the ERCIM Working Group on Computational and Methodological Statistics (CMStatistics 2024)</strong>, 
-    King’s College London, UK. <strong>Date:</strong> 14–16 December 2024.
-  </li>
+    King’s College London, UK. <strong>December 14-16, 2024</strong>.
+  <a href="{{ '/files/SLIDE_OCBE.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+    Slides
+  </a>.
+</li>
 
   <li>
     <strong>Ahmad, T.</strong>, & Arshad. I, A. (2023). 
