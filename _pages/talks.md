@@ -102,6 +102,18 @@ Modeling Low Threshold Exceedances.</em>
 <h2>Posters Presentation</h2>
 <ol>
 
+
+
+ <li>
+    <strong>Ahmad, T.</strong>, &amp; Thordis L. Thorarinsdottir (2024). 
+    <em>A flexible model for spatio-temporal modeling of low-threshold exceedances</em>
+    Presented at the <strong> 7th International Conference on Advances in Extreme Value Analysis and Application to Natural Hazards (EVAN 2026)</strong>, Delft University of Technology, Netherlands.
+<strong>July 21-24, 2026</strong>.
+  <a href="{{ '/files/Poster_EVAN.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
+    Poster
+  </a>.
+  </li>
+
   <li>
     <strong>Ahmad, T.</strong>, &amp; Portier, F., Stupfler, G. (2024). 
     <em>Local logistic regression for dimension reduction in classification.</em>
