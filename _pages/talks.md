@@ -108,10 +108,7 @@ Modeling Low Threshold Exceedances.</em>
     <strong>Ahmad, T.</strong>, &amp; Thordis L. Thorarinsdottir (2026). 
     <em>A flexible model for spatio-temporal modeling of low-threshold exceedances</em>
     Presented at the <strong> 7th International Conference on Advances in Extreme Value Analysis and Application to Natural Hazards (EVAN 2026)</strong>, Delft University of Technology, Netherlands.
-<strong>July 21-24, 2026</strong>.
-  <a href="{{ '/files/Poster_EVAN.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
-    Poster
-  </a>.
+<strong>July 21-24, 2026</strong>. <a href="{{ '/files/Poster_EVAN.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer"> Poster</a>.
   </li>
 
   <li>
