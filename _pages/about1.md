@@ -60,6 +60,24 @@ redirect_from:
 
   #hp-tip{position:fixed;pointer-events:none;z-index:9999;background:#1d2327;color:#fff;font-size:12px;line-height:1.35;padding:.4em .65em;border-radius:6px;opacity:0;transition:opacity .12s;white-space:nowrap}
 
+  .hp-papers{display:grid;gap:1em}
+  .hp-paper{display:grid;grid-template-columns:5px 1fr;border:1px solid var(--line);border-radius:14px;background:var(--card);overflow:hidden;transition:transform .2s ease, box-shadow .2s ease, border-color .2s ease}
+  .hp-paper:hover{transform:translateY(-3px);border-color:var(--accent);box-shadow:0 10px 24px -14px rgba(0,0,0,.35)}
+  .hp-paper .band{background:var(--accent)}
+  .hp-paper:nth-child(2) .band{background:var(--warm)}
+  .hp-paper .in{padding:1.1em 1.25em 1em}
+  .hp-paper .meta{display:flex;flex-wrap:wrap;gap:.45em;align-items:center;margin-bottom:.5em}
+  .hp-venue{font-size:.68em;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:.25em .65em;border-radius:6px;background:var(--accent-soft);color:var(--accent)}
+  .hp-venue.top{background:var(--warm);color:#fff}
+  .hp-kw{font-size:.68em;padding:.22em .6em;border-radius:999px;border:1px solid var(--line);color:var(--muted)}
+  .hp-paper h3{font-size:.98em;line-height:1.35;margin:0 0 .4em}
+  .hp-paper .au{font-size:.74em;color:var(--muted);margin:0 0 .55em}
+  .hp-paper .au b{color:var(--global-text-color)}
+  .hp-paper .why{font-size:.84em;line-height:1.55;margin:0 0 .7em}
+  .hp-paper .why b{color:var(--accent)}
+  .hp-paper a.go{font-size:.8em;font-weight:600;color:var(--accent)!important}
+  .hp-paper a.go:hover{text-decoration:underline}
+
   .hp-news{list-style:none;margin:0;padding:0;position:relative}
   .hp-news::before{content:"";position:absolute;left:.42em;top:.6em;bottom:.6em;width:2px;background:var(--line)}
   .hp-news li{position:relative;padding:0 0 1.05em 2em;font-size:.88em;line-height:1.55;margin:0}
@@ -106,7 +124,7 @@ redirect_from:
 
 <div class="hp-role"><span class="dot"></span>DSTrain – MSCA Research Fellow · University of Oslo</div>
 
-<p class="hp-lead">I am a Marie Skłodowska-Curie Research Fellow in the Department of Mathematics at the <strong>University of Oslo</strong>, Norway. I develop statistical models for <strong>rare and extreme events</strong>, and my current research focuses on the stochastic modelling of natural processes.</p>
+<p class="hp-lead">I am a Marie Skłodowska-Curie Research Fellow in the Department of Mathematics at the <strong>University of Oslo</strong>, Norway. I work on <strong>extreme value analysis</strong>, <strong>risk assessment</strong> and <strong>uncertainty quantification</strong>: estimating how large, how likely and how uncertain rare events are, from floods and droughts to financial crashes. My current research focuses on the stochastic modelling of natural processes.</p>
 
 <p>Previously, I was a Postdoctoral Research Fellow at the Institut Denis Poisson, University of Orléans, France (May–October 2025), where I worked on missing data in high-dimensional environmental datasets. Before that, I held a postdoctoral position at ENSAI, France, focusing on dimension reduction and imbalanced data classification. I earned my PhD in Statistical Sciences, with a Doctor Europaeus title, from the University of Padova, Italy, with a thesis <em>On the modeling of discrete extreme values</em>.</p>
 
@@ -117,14 +135,14 @@ redirect_from:
 </div>
 
 <figure class="hp-fig hp-reveal">
-  <h3><i class="fas fa-chart-column"></i> Modelling the whole distribution, tail included</h3>
+  <h3><i class="fas fa-chart-area"></i> Where the risk lives: the tail, and how sure we are about it</h3>
   <div class="hp-legend">
-    <span><i style="background:var(--c1)"></i>Observed counts</span>
-    <span><i style="background:var(--c2)"></i>Above threshold <em>u</em></span>
-    <span><i class="ln" style="background:var(--global-text-color)"></i>Fitted discrete extended GPD</span>
+    <span><i class="ln" style="background:var(--global-text-color)"></i>Fitted loss distribution</span>
+    <span><i class="ln" style="background:var(--c1);opacity:.6"></i>Uncertainty (bootstrap fits)</span>
+    <span><i style="background:var(--c2)"></i>Losses beyond VaR (expected shortfall)</span>
   </div>
-  <svg id="hp-fig-main" viewBox="0 0 640 230" role="img" aria-label="Histogram of zero-inflated count data with a heavy right tail and a fitted discrete extended generalized Pareto curve"></svg>
-  <figcaption><b>Illustration.</b> Count data with many zeros and a heavy tail, such as avalanche or precipitation counts. The discrete extended generalized Pareto model fits the bulk and the extremes together, with no need to pick a threshold.</figcaption>
+  <svg id="hp-fig-main" viewBox="0 0 640 250" role="img" aria-label="Heavy-tailed loss distribution with Value-at-Risk and expected shortfall marked, and a zoomed tail panel showing uncertainty from bootstrap fits and a confidence interval for VaR"></svg>
+  <figcaption><b>Illustration.</b> Most outcomes sit in the bulk, but risk is decided in the far tail. Extreme value theory estimates the 1-in-100 loss (VaR 99%) and the average loss beyond it (expected shortfall), and quantifies how uncertain those estimates are.</figcaption>
 </figure>
 
 <h2 class="hp-h hp-reveal"><i class="fas fa-compass"></i> Research interests</h2>
@@ -161,6 +179,35 @@ redirect_from:
     <svg id="hp-fig-map" viewBox="0 0 300 166" role="img" aria-label="Gridded map of estimated 100-year return levels on a single-hue colour scale"></svg>
     <figcaption>Gridded map of estimated 100-year return levels.</figcaption>
   </figure>
+</div>
+
+<h2 class="hp-h hp-reveal"><i class="fas fa-star"></i> Featured papers</h2>
+
+<!-- To feature another paper: copy one <div class="hp-paper">…</div> block below and edit the text and link. -->
+<div class="hp-papers hp-reveal">
+  <div class="hp-paper"><div class="band"></div><div class="in">
+    <div class="meta"><span class="hp-venue top">NeurIPS 2025</span><span class="hp-kw">Statistical learning</span><span class="hp-kw">Rare events</span></div>
+    <h3>Concentration and excess risk bounds for imbalanced classification with synthetic oversampling</h3>
+    <p class="au"><b>T. Ahmad</b>, M. M. Kalan, F. Portier, G. Stupfler</p>
+    <p class="why"><b>In short:</b> when the event we care about is rare, classifiers are often trained on synthetic copies of the rare class. This paper gives theoretical guarantees (concentration and excess-risk bounds) for that practice.</p>
+    <a class="go" href="https://doi.org/10.48550/arXiv.2510.20472" target="_blank" rel="noopener noreferrer">Read the paper →</a>
+  </div></div>
+
+  <div class="hp-paper"><div class="band"></div><div class="in">
+    <div class="meta"><span class="hp-venue">Empirical Economics · 2025</span><span class="hp-kw">Risk assessment</span><span class="hp-kw">Finance</span></div>
+    <h3>Novel modeling for assessment of extreme values risk in cryptocurrencies portfolio</h3>
+    <p class="au">S. U. Rehman, <b>T. Ahmad</b>, D. Wu</p>
+    <p class="why"><b>In short:</b> an ARMA-EGARCH-EVT copula model for a ten-asset cryptocurrency portfolio, estimating Value-at-Risk, expected shortfall and range VaR. It captures dependence better than historical simulation and variance–covariance methods.</p>
+    <a class="go" href="https://doi.org/10.1007/s00181-025-02784-3" target="_blank" rel="noopener noreferrer">Read the paper →</a>
+  </div></div>
+
+  <div class="hp-paper"><div class="band"></div><div class="in">
+    <div class="meta"><span class="hp-venue">Statistical Modelling · 2025</span><span class="hp-kw">Extreme value theory</span><span class="hp-kw">Natural hazards</span></div>
+    <h3>An extended generalized Pareto regression model for count data</h3>
+    <p class="au"><b>T. Ahmad</b>, C. Gaetan, P. Naveau</p>
+    <p class="why"><b>In short:</b> a regression model that captures zeros, typical values and extremes of count data at once, with no threshold to choose and covariate effects through GAMs. Applied to avalanche activity in the French Alps.</p>
+    <a class="go" href="https://doi.org/10.1177/1471082X241266729" target="_blank" rel="noopener noreferrer">Read the paper →</a>
+  </div></div>
 </div>
 
 <h2 class="hp-h hp-reveal"><i class="fas fa-bullhorn"></i> Latest news</h2>
@@ -218,32 +265,72 @@ redirect_from:
   }
   function fmt(x,d){return x.toFixed(d==null?1:d);}
 
-  /* ---------- Main: zero-inflated discrete EGPD ---------- */
+  /* ---------- Main: tail risk with uncertainty ---------- */
   (function(){
     var svg=document.getElementById('hp-fig-main'); if(!svg) return;
-    var W=640,H=230,L=44,R=628,T=10,B=196, n=31, u=12;
-    var xi=.32,sigma=2.6,kappa=1.5,pi0=.18;
-    function F(x){return x<=0?0:Math.pow(1-Math.pow(1+xi*x/sigma,-1/xi),kappa);}
-    var r=rng(7), model=[], obs=[];
-    for(var k=0;k<n;k++){var p=(1-pi0)*(F(k+1)-F(k))+(k===0?pi0:0);model.push(p);obs.push(Math.max(0,p*(1+.16*gauss(r))));}
-    var lo=Math.log10(.0004),hi=Math.log10(.4), bw=(R-L)/n, y=function(v){var l=Math.log10(Math.max(v,.0004));return B-(Math.min(l,hi)-lo)/(hi-lo)*(B-T);};
-    [[.001,'0.001'],[.01,'0.01'],[.1,'0.1']].forEach(function(t){el(svg,'line',{x1:L,x2:R,y1:y(t[0]),y2:y(t[0]),class:'grid'});el(svg,'text',{x:L-8,y:y(t[0])+3,'text-anchor':'end'},t[1]);});
+    function lgam(x){var c=[76.18009172947146,-86.50532032941677,24.01409824083091,-1.231739572450155,.1208650973866179e-2,-.5395239384953e-5];var y=x,t=x+5.5;t-=(x+.5)*Math.log(t);var s=1.000000000190015;for(var j=0;j<6;j++)s+=c[j]/++y;return -t+Math.log(2.5066282746310005*s/x);}
+    function tpdf(x,nu,sc){var c=Math.exp(lgam((nu+1)/2)-lgam(nu/2))/Math.sqrt(nu*Math.PI)/sc;var z=x/sc;return c*Math.pow(1+z*z/nu,-(nu+1)/2);}
+    function risk(nu,sc){ // numeric VaR99 and ES99
+      var h=.01,tail=0,x=400,q=null,es=0;
+      while(x>-50){var f=tpdf(x,nu,sc);tail+=f*h;es+=x*f*h;if(tail>=.01){q=x;break;}x-=h;}
+      return [q,es/tail];
+    }
+    var nu0=3,sc0=1, R0=risk(nu0,sc0), VaR=R0[0], ES=R0[1];
+    var r=rng(9), draws=[];
+    for(var i=0;i<28;i++){var nu=Math.max(2.3,nu0+.55*gauss(r)),sc=sc0*(1+.06*gauss(r));var rr=risk(nu,sc);draws.push({nu:nu,sc:sc,v:rr[0],e:rr[1]});}
+    var vs=draws.map(function(d){return d.v}).sort(function(a,b){return a-b}), vlo=vs[1], vhi=vs[vs.length-2];
+
+    /* left panel: full distribution */
+    var L=40,R=330,T=18,B=210, x0=-5,x1=10, ymax=.4;
+    var X=function(v){return L+(v-x0)/(x1-x0)*(R-L)}, Y=function(v){return B-v/ymax*(B-T)};
+    [0,.1,.2,.3].forEach(function(t){el(svg,'line',{x1:L,x2:R,y1:Y(t),y2:Y(t),class:'grid'});el(svg,'text',{x:L-6,y:Y(t)+3,'text-anchor':'end'},fmt(t,1));});
     el(svg,'line',{x1:L,x2:R,y1:B,y2:B,class:'ax'});
-    obs.forEach(function(v,k){
-      var x=L+k*bw+1, w=bw-2, h=Math.max(B-y(v),1.5), top=B-h, rr=Math.min(4,w/2,h);
-      var d='M'+x+','+B+'V'+(top+rr)+'Q'+x+','+top+' '+(x+rr)+','+top+'H'+(x+w-rr)+'Q'+(x+w)+','+top+' '+(x+w)+','+(top+rr)+'V'+B+'Z';
-      var bar=el(svg,'path',{d:d,class:'mk '+(k>=u?'c2':'c1')});
-      var hit=el(svg,'rect',{x:L+k*bw,y:T,width:bw,height:B-T,class:'hit'});
-      hover(hit,'count '+k+' · observed '+fmt(obs[k]*100)+'% · model '+fmt(model[k]*100)+'%');
-      if(k%5===0) el(svg,'text',{x:L+k*bw+bw/2,y:B+14,'text-anchor':'middle'},k);
-    });
-    var d=''; model.forEach(function(v,k){d+=(k?'L':'M')+(L+k*bw+bw/2).toFixed(1)+','+y(v).toFixed(1);});
-    el(svg,'path',{d:d,fill:'none',stroke:'currentColor',style:'color:var(--global-text-color)','stroke-width':2,'stroke-linejoin':'round',class:'hp-draw'});
-    var ux=L+u*bw; el(svg,'line',{x1:ux,x2:ux,y1:T+4,y2:B,class:'s2','stroke-width':1.5,'stroke-dasharray':'4 4'});
-    el(svg,'text',{x:ux+6,y:T+12,class:'lab'},'threshold u');
-    el(svg,'text',{x:L+bw+6,y:y(model[0])+4,class:'lab'},'← excess zeros');el(svg,'text',{x:R-4,y:y(model[24])-14,'text-anchor':'end',class:'lab'},'heavy tail: rare, large counts');
-    el(svg,'text',{x:(L+R)/2,y:H-4,'text-anchor':'middle'},'count');
-    el(svg,'text',{x:12,y:(T+B)/2,'text-anchor':'middle',transform:'rotate(-90 12 '+(T+B)/2+')'},'proportion (log scale)');
+    [-4,0,4,8].forEach(function(t){el(svg,'text',{x:X(t),y:B+14,'text-anchor':'middle'},t);});
+    var body='M'+X(x0)+','+B, tailp='M'+X(VaR)+','+B, line='';
+    for(var k=0;k<=300;k++){var xv=x0+k/300*(x1-x0),f=tpdf(xv,nu0,sc0);line+=(k?'L':'M')+X(xv).toFixed(1)+','+Y(f).toFixed(1);if(xv<=VaR)body+='L'+X(xv).toFixed(1)+','+Y(f).toFixed(1);else tailp+='L'+X(xv).toFixed(1)+','+Y(f).toFixed(1);}
+    body+='L'+X(VaR)+','+B+'Z'; tailp+='L'+X(x1)+','+B+'Z';
+    el(svg,'path',{d:body,class:'c1','fill-opacity':.14});
+    el(svg,'path',{d:tailp,class:'c2','fill-opacity':.9});
+    el(svg,'path',{d:line,fill:'none',stroke:'var(--global-text-color)','stroke-width':2,class:'hp-draw'});
+    el(svg,'line',{x1:X(VaR),x2:X(VaR),y1:T+20,y2:B,class:'s2','stroke-width':1.5,'stroke-dasharray':'4 4'});
+    el(svg,'text',{x:X(VaR)+5,y:T+28,class:'lab'},'VaR 99%');
+    el(svg,'text',{x:X(-.2),y:Y(.36)-6,'text-anchor':'end',class:'lab'},'typical outcomes');
+    el(svg,'text',{x:(L+R)/2,y:B+32,'text-anchor':'middle'},'loss');
+    el(svg,'text',{x:12,y:(T+B)/2,'text-anchor':'middle',transform:'rotate(-90 12 '+(T+B)/2+')'},'density');
+    var hitL=el(svg,'rect',{x:L,y:T,width:R-L,height:B-T,class:'hit'});
+    hitL.addEventListener('mousemove',function(ev){var bb=svg.getBoundingClientRect(),px=(ev.clientX-bb.left)/bb.width*640,xv=x0+(px-L)/(R-L)*(x1-x0);tip.textContent='loss '+fmt(xv)+' · density '+fmt(tpdf(xv,nu0,sc0),3);tip.style.opacity=1;tip.style.left=(ev.clientX+12)+'px';tip.style.top=(ev.clientY-30)+'px';});
+    hitL.addEventListener('mouseleave',function(){tip.style.opacity=0;});
+
+    /* zoom box marker */
+    var zx0=3.5,zx1=10,zymax=.03;
+    el(svg,'rect',{x:X(zx0),y:Y(zymax*1.6),width:X(zx1)-X(zx0),height:B-Y(zymax*1.6),fill:'none',stroke:'var(--fig-ink)','stroke-opacity':.4,'stroke-dasharray':'3 3',rx:3});
+
+    /* right panel: tail zoom with uncertainty */
+    var L2=372,R2=632, X2=function(v){return L2+(v-zx0)/(zx1-zx0)*(R2-L2)}, Y2=function(v){return B-Math.min(v,zymax)/zymax*(B-T-26)};
+    el(svg,'rect',{x:L2-10,y:T-8,width:R2-L2+18,height:B-T+30,rx:10,fill:'var(--fig-ink)','fill-opacity':.035});
+    el(svg,'text',{x:L2,y:T+6,class:'lab'},'Zoom on the tail (×'+Math.round(ymax/zymax)+')');
+    [0,.01,.02].forEach(function(t){el(svg,'line',{x1:L2,x2:R2,y1:Y2(t),y2:Y2(t),class:'grid'});});
+    el(svg,'line',{x1:L2,x2:R2,y1:B,y2:B,class:'ax'});
+    [4,6,8,10].forEach(function(t){el(svg,'text',{x:X2(t),y:B+14,'text-anchor':'middle'},t);});
+    var tp='M'+X2(VaR)+','+B;
+    for(var k2=0;k2<=120;k2++){var xv2=VaR+k2/120*(zx1-VaR);tp+='L'+X2(xv2).toFixed(1)+','+Y2(tpdf(xv2,nu0,sc0)).toFixed(1);} tp+='L'+X2(zx1)+','+B+'Z';
+    el(svg,'path',{d:tp,class:'c2','fill-opacity':.28});
+    draws.forEach(function(d){var p='';for(var k=0;k<=80;k++){var xv=zx0+k/80*(zx1-zx0);p+=(k?'L':'M')+X2(xv).toFixed(1)+','+Y2(tpdf(xv,d.nu,d.sc)).toFixed(1);}el(svg,'path',{d:p,fill:'none',class:'s1','stroke-width':1,'stroke-opacity':.38});});
+    var fl='';for(var k3=0;k3<=120;k3++){var xv3=zx0+k3/120*(zx1-zx0);fl+=(k3?'L':'M')+X2(xv3).toFixed(1)+','+Y2(tpdf(xv3,nu0,sc0)).toFixed(1);}
+    el(svg,'path',{d:fl,fill:'none',stroke:'var(--global-text-color)','stroke-width':2});
+    el(svg,'line',{x1:X2(VaR),x2:X2(VaR),y1:T+30,y2:B,class:'s2','stroke-width':1.5,'stroke-dasharray':'4 4'});
+    el(svg,'line',{x1:X2(ES),x2:X2(ES),y1:T+48,y2:B,stroke:'var(--global-text-color)','stroke-opacity':.7,'stroke-width':1.5,'stroke-dasharray':'2 3'});
+    el(svg,'text',{x:X2(ES)+5,y:T+56,class:'lab'},'ES 99%');
+    // VaR confidence interval bracket
+    var yb=T+24;
+    el(svg,'line',{x1:X2(vlo),x2:X2(vhi),y1:yb,y2:yb,class:'s2','stroke-width':2.5,'stroke-linecap':'round'});
+    el(svg,'circle',{cx:X2(VaR),cy:yb,r:4.5,class:'c2',stroke:'var(--fig-bg)','stroke-width':2});
+    el(svg,'text',{x:X2(vhi)+6,y:yb+4,class:'lab'},'VaR 99% ± 95% CI');
+    var hv=el(svg,'rect',{x:X2(vlo)-4,y:yb-8,width:X2(vhi)-X2(vlo)+8,height:16,class:'hit'});
+    hover(hv,'VaR 99% = '+fmt(VaR,2)+'  (95% CI '+fmt(vlo,2)+' – '+fmt(vhi,2)+')');
+    var he=el(svg,'rect',{x:X2(ES)-6,y:T+40,width:12,height:B-T-40,class:'hit'});
+    hover(he,'Expected shortfall 99% = '+fmt(ES,2)+' (average loss beyond VaR)');
+    el(svg,'text',{x:(L2+R2)/2,y:B+32,'text-anchor':'middle'},'loss (tail only)');
   })();
 
   /* ---------- Time series with exceedances ---------- */
