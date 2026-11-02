@@ -114,17 +114,17 @@ redirect_from:
   .hp-contact summary{cursor:pointer}
   .hp-contact details p{margin:.4em 0 0;font-size:1em;color:rgba(255,255,255,.72)}
 
-  .hp-reveal{opacity:0;transform:translateY(12px);transition:opacity .6s ease, transform .6s ease}
-  .hp-reveal.in{opacity:1;transform:none}
-  .hp-fade{opacity:0;transition:opacity 1.2s ease .3s}
-  .in .hp-fade{opacity:1}
+  .hp-js .hp-reveal{opacity:0;transform:translateY(12px);transition:opacity .6s ease, transform .6s ease}
+  .hp-js .hp-reveal.in{opacity:1;transform:none}
+  .hp-js .hp-fade{opacity:0;transition:opacity 1.2s ease .3s}
+  .hp-js .in .hp-fade{opacity:1}
   .hp-fig{background:linear-gradient(180deg,var(--fig-bg),color-mix(in srgb,var(--fig-bg) 92%,var(--c1)))!important;box-shadow:0 1px 2px rgba(0,0,0,.04),0 8px 24px -18px rgba(15,134,168,.45)}
   .hp-draw{stroke-dasharray:2000;stroke-dashoffset:2000}
   .in .hp-draw, .hp-draw.in{transition:stroke-dashoffset 2.2s ease-out;stroke-dashoffset:0}
   @media (prefers-reduced-motion:reduce){.hp-fade{opacity:1}.hp-reveal{opacity:1;transform:none}.hp-role .dot{animation:none}.hp-draw{stroke-dashoffset:0}}
 </style>
 
-<div class="hp">
+<div class="hp" id="hp-root">
 
 <div class="hp-role"><span class="dot"></span>DSTrain – MSCA Research Fellow · University of Oslo</div>
 
@@ -256,6 +256,7 @@ redirect_from:
 <div id="hp-tip"></div>
 
 <script>
+document.getElementById('hp-root').className+=' hp-js';
 (function(){
   var NS='http://www.w3.org/2000/svg';
   function rng(seed){return function(){seed|=0;seed=seed+0x6D2B79F5|0;var t=Math.imul(seed^seed>>>15,1|seed);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296;};}
@@ -277,7 +278,7 @@ redirect_from:
     var svg=document.getElementById('hp-fig-main'); if(!svg) return;
     function lgam(x){var c=[76.18009172947146,-86.50532032941677,24.01409824083091,-1.231739572450155,.1208650973866179e-2,-.5395239384953e-5];var y=x,t=x+5.5;t-=(x+.5)*Math.log(t);var s=1.000000000190015;for(var j=0;j<6;j++)s+=c[j]/++y;return -t+Math.log(2.5066282746310005*s/x);}
     function tpdf(x,nu,sc){var c=Math.exp(lgam((nu+1)/2)-lgam(nu/2))/Math.sqrt(nu*Math.PI)/sc;var z=x/sc;return c*Math.pow(1+z*z/nu,-(nu+1)/2);}
-    function risk(nu,sc){ // numeric VaR99 and ES99
+    function risk(nu,sc){ /* numeric VaR99 and ES99 */
       var h=.01,tail=0,x=400,q=null,es=0;
       while(x>-50){var f=tpdf(x,nu,sc);tail+=f*h;es+=x*f*h;if(tail>=.01){q=x;break;}x-=h;}
       return [q,es/tail];
@@ -328,7 +329,7 @@ redirect_from:
     el(svg,'line',{x1:X2(VaR),x2:X2(VaR),y1:T+30,y2:B,class:'s2','stroke-width':1.5,'stroke-dasharray':'4 4'});
     el(svg,'line',{x1:X2(ES),x2:X2(ES),y1:T+48,y2:B,stroke:'var(--global-text-color)','stroke-opacity':.7,'stroke-width':1.5,'stroke-dasharray':'2 3'});
     el(svg,'text',{x:X2(ES)+5,y:T+56,class:'lab'},'ES 99%');
-    // VaR confidence interval bracket
+    /* VaR confidence interval bracket */
     var yb=T+24;
     el(svg,'line',{x1:X2(vlo),x2:X2(vhi),y1:yb,y2:yb,class:'s2','stroke-width':2.5,'stroke-linecap':'round'});
     el(svg,'circle',{cx:X2(VaR),cy:yb,r:4.5,class:'c2',stroke:'var(--fig-bg)','stroke-width':2});
