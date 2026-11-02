@@ -60,6 +60,20 @@ redirect_from:
 
   #hp-tip{position:fixed;pointer-events:none;z-index:9999;background:#1d2327;color:#fff;font-size:12px;line-height:1.35;padding:.4em .65em;border-radius:6px;opacity:0;transition:opacity .12s;white-space:nowrap}
 
+  .hp-news{list-style:none;margin:0;padding:0;position:relative}
+  .hp-news::before{content:"";position:absolute;left:.42em;top:.6em;bottom:.6em;width:2px;background:var(--line)}
+  .hp-news li{position:relative;padding:0 0 1.05em 2em;font-size:.88em;line-height:1.55;margin:0}
+  .hp-news li::before{content:"";position:absolute;left:0;top:.42em;width:.95em;height:.95em;border-radius:50%;background:var(--global-bg-color);border:2.5px solid var(--accent)}
+  .hp-news li:first-child::before{background:var(--warm);border-color:var(--warm)}
+  .hp-tag{display:inline-block;font-size:.72em;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:.2em .6em;border-radius:6px;margin-right:.5em;vertical-align:.1em}
+  .t-pub{background:var(--accent-soft);color:var(--accent)}
+  .t-acc{background:rgba(63,154,63,.14);color:#3f9a3f}
+  .t-sw{background:rgba(124,92,196,.14);color:#7c5cc4}
+  .hp-news a.go{font-weight:600;color:var(--accent);white-space:nowrap}
+  .hp-news a.go:hover{text-decoration:underline}
+  .hp-all{display:inline-flex;align-items:center;gap:.4em;font-size:.8em;font-weight:600;color:var(--accent)!important;margin-top:.2em}
+  .hp-all:hover{text-decoration:underline}
+
   .hp-events{display:grid;gap:.8em}
   .hp-event{display:grid;grid-template-columns:4.6em 1fr;gap:1em;align-items:center;border:1px solid var(--line);border-radius:12px;padding:.9em 1em;background:var(--card);transition:border-color .2s ease}
   .hp-event:hover{border-color:var(--accent)}
@@ -148,6 +162,17 @@ redirect_from:
     <figcaption>Gridded map of estimated 100-year return levels.</figcaption>
   </figure>
 </div>
+
+<h2 class="hp-h hp-reveal"><i class="fas fa-bullhorn"></i> Latest news</h2>
+
+<ul class="hp-news hp-reveal">
+  <li><span class="hp-tag t-pub">Published</span>Order-of-addition in mixture and component-amount designs in orthogonal blocks, in <strong>Journal of Biopharmaceutical Statistics</strong>. <a class="go" href="https://doi.org/10.1080/10543406.2026.2680927" target="_blank" rel="noopener noreferrer">Read →</a></li>
+  <li><span class="hp-tag t-pub">Published</span>Regional modeling of zero-inflated precipitation in Pakistan by classical and Bayesian approaches, in <strong>Journal of Hydrology: Regional Studies</strong>. <a class="go" href="https://doi.org/10.1016/j.ejrh.2026.103330" target="_blank" rel="noopener noreferrer">Read →</a></li>
+  <li><span class="hp-tag t-sw">Software</span>Released the new R package <strong>egpd</strong>, jointly with <a href="https://www.lshtm.ac.uk/aboutus/people/frost.simon" target="_blank" rel="noopener noreferrer">Simon Frost</a>. <a class="go" href="https://github.com/sdwfrost/egpd" target="_blank" rel="noopener noreferrer">View →</a></li>
+  <li><span class="hp-tag t-acc">Accepted</span>New flexible versions of the extended generalized Pareto distribution for count data, in <strong>Journal of Applied Statistics</strong>.</li>
+</ul>
+
+<a class="hp-all hp-reveal" href="/publications/">See all publications <i class="fas fa-arrow-right"></i></a>
 
 <h2 class="hp-h hp-reveal"><i class="fas fa-calendar-days"></i> Conferences 2026</h2>
 
