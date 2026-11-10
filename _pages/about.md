@@ -196,7 +196,7 @@ redirect_from:
     <h3>Concentration and excess risk bounds for imbalanced classification with synthetic oversampling</h3>
     <p class="au"><b>T. Ahmad</b>, M. M. Kalan, F. Portier, G. Stupfler</p>
     <p class="why"><b>In short:</b> when the event we care about is rare, classifiers are often hard to train on imbalanced synthetic copies of the rare class. This paper gives theoretical guarantees (concentration and excess-risk bounds) for that practice.</p>
-    <a class="go" href="https://doi.org/10.48550/arXiv.2510.20472" target="_blank" rel="noopener noreferrer">Read the paper →</a>
+    <a class="go" href="https://proceedings.neurips.cc/paper_files/paper/2025/file/e715ad3d527e246af3ab286c3f3d367c-Paper-Conference.pdf" target="_blank" rel="noopener noreferrer">Read the paper →</a>
   </div></div>
 
   <div class="hp-paper"><div class="band"></div><div class="in">
