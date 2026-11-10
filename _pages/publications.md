@@ -88,6 +88,7 @@ redirect_from:
   <small>Capri, Italy</small>
 </div>
 
+<!--
 <div class="pb-stats">
   <div class="pb-stat"><b>19</b><span>Journal &amp; conference papers</span></div>
   <div class="pb-stat"><b>3</b><span>Preprints</span></div>
@@ -95,7 +96,6 @@ redirect_from:
   <div class="pb-stat"><b>NeurIPS</b><span>2025, imbalanced classification</span></div>
 </div>
 
-<!--
 <div class="pb-chart">
   <h3><i class="fas fa-chart-column" style="color:var(--accent)"></i> Publications per year</h3>
   <svg id="pb-years" viewBox="0 0 600 150" role="img" aria-label="Bar chart of the number of published papers per year from 2019 to 2026"></svg>
