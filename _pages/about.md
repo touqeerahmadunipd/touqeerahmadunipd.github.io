@@ -22,6 +22,8 @@ redirect_from:
   @keyframes hp-pulse{50%{box-shadow:0 0 0 .45em transparent}}
   .hp-lead{font-size:1.12em;line-height:1.6}
   .hp-lead strong{color:var(--accent)}
+  .hp a.hp-person{color:var(--accent);font-weight:600;border-bottom:1.5px dotted color-mix(in srgb,var(--accent) 55%,transparent);transition:border-color .2s,color .2s}
+  .hp a.hp-person:hover{border-bottom-color:var(--warm);color:var(--warm)}
 
   .hp-btns{display:flex;flex-wrap:wrap;gap:.6em;margin:1.4em 0 2em}
   .hp-btn{display:inline-flex;align-items:center;gap:.5em;font-size:.78em;font-weight:600;padding:.6em 1.1em;border-radius:999px;border:1.5px solid var(--accent);color:var(--accent)!important;transition:all .2s ease}
@@ -128,9 +130,9 @@ redirect_from:
 
 <div class="hp-role"><span class="dot"></span>DSTrain – MSCA Research Fellow · University of Oslo</div>
 
-<p class="hp-lead">I am a Marie Skłodowska-Curie Research Fellow in the Department of Mathematics at the <strong>University of Oslo</strong>, Norway. I work on <strong>extreme value analysis</strong>, <strong>risk assessment</strong> and <strong>uncertainty quantification</strong>: estimating how large, how likely and how uncertain rare events are, from floods and droughts to financial crashes. My current research focuses on the stochastic modelling of natural processes.</p>
+<p class="hp-lead">I am a Marie Skłodowska-Curie Research Fellow in the Department of Mathematics at the <strong>University of Oslo</strong>, Norway. I work on <strong>extreme value analysis</strong>, <strong>risk assessment</strong> and <strong>uncertainty quantification</strong>: estimating how large, how likely and how uncertain rare events are, from floods and droughts to financial crashes. My current research focuses on the stochastic modelling of natural processes, in collaboration with <a class="hp-person" href="https://www.mn.uio.no/math/english/people/aca/thordist/" target="_blank" rel="noopener noreferrer">Thordis L. Thorarinsdottir</a>.</p>
 
-<p>Previously, I was a Postdoctoral Research Fellow at the Institut Denis Poisson, University of Orléans, France (May–October 2025), where I worked on missing data in high-dimensional environmental datasets. Before that, I held a postdoctoral position at ENSAI, France, focusing on dimension reduction and imbalanced data classification. I earned my PhD in Statistical Sciences, with a Doctor Europaeus title, from the University of Padova, Italy, with a thesis <em>On the modeling of discrete extreme values</em>.</p>
+<p>Previously, I was a Postdoctoral Research Fellow at the Institut Denis Poisson, University of Orléans, France (May–October 2025), working with <a class="hp-person" href="https://www.idpoisson.fr/chauveau/" target="_blank" rel="noopener noreferrer">Didier Chauveau</a> and Sophie Jacquot on missing data in high-dimensional environmental datasets. Before that, I held a postdoctoral position at CREST–ENSAI, France, with <a class="hp-person" href="https://sites.google.com/site/fportierwebpage/" target="_blank" rel="noopener noreferrer">François Portier</a> and <a class="hp-person" href="https://math.univ-angers.fr/membre/stupfler-gilles/" target="_blank" rel="noopener noreferrer">Gilles Stupfler</a>, focusing on dimension reduction and imbalanced data classification. I earned my PhD in Statistical Sciences, with a Doctor Europaeus title, from the University of Padova, Italy, with a thesis <em>On the modeling of discrete extreme values</em>, supervised by <a class="hp-person" href="https://www.unive.it/data/people/5591383" target="_blank" rel="noopener noreferrer">Carlo Gaetan</a> and <a class="hp-person" href="https://scholar.google.com/citations?user=yMvy9NIAAAAJ" target="_blank" rel="noopener noreferrer">Philippe Naveau</a>.</p>
 
 <div class="hp-btns">
   <a class="hp-btn solid" href="/files/Touqeer_CV.pdf"><i class="fas fa-file-arrow-down"></i> Download CV</a>
