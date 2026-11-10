@@ -95,10 +95,12 @@ redirect_from:
   <div class="pb-stat"><b>NeurIPS</b><span>2025, imbalanced classification</span></div>
 </div>
 
+<!--
 <div class="pb-chart">
   <h3><i class="fas fa-chart-column" style="color:var(--accent)"></i> Publications per year</h3>
   <svg id="pb-years" viewBox="0 0 600 150" role="img" aria-label="Bar chart of the number of published papers per year from 2019 to 2026"></svg>
 </div>
+-->
 
 <h2 class="pb-h"><i class="fas fa-file-lines"></i> Published articles</h2>
 
