@@ -195,7 +195,7 @@ redirect_from:
     <div class="meta"><span class="hp-venue top">NeurIPS 2025</span><span class="hp-kw">Statistical learning</span><span class="hp-kw">Rare events</span></div>
     <h3>Concentration and excess risk bounds for imbalanced classification with synthetic oversampling</h3>
     <p class="au"><b>T. Ahmad</b>, M. M. Kalan, F. Portier, G. Stupfler</p>
-    <p class="why"><b>In short:</b> when the event we care about is rare, classifiers are often trained on synthetic copies of the rare class. This paper gives theoretical guarantees (concentration and excess-risk bounds) for that practice.</p>
+    <p class="why"><b>In short:</b> when the event we care about is rare, classifiers are often hard to train on imbalanced synthetic copies of the rare class. This paper gives theoretical guarantees (concentration and excess-risk bounds) for that practice.</p>
     <a class="go" href="https://doi.org/10.48550/arXiv.2510.20472" target="_blank" rel="noopener noreferrer">Read the paper →</a>
   </div></div>
 
