@@ -139,7 +139,7 @@ redirect_from:
   <a class="hp-btn" href="https://scholar.google.com/citations?user=0Unv8IAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
   <a class="hp-btn" href="https://github.com/touqeerahmadunipd" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i> GitHub</a>
 </div>
-
+<!--
 <figure class="hp-fig hp-reveal">
   <h3><i class="fas fa-chart-area"></i> Where the risk lives: the tail, and how sure we are about it</h3>
   <div class="hp-legend">
@@ -150,7 +150,7 @@ redirect_from:
   <svg id="hp-fig-main" viewBox="0 0 640 250" role="img" aria-label="Heavy-tailed loss distribution with Value-at-Risk and expected shortfall marked, and a zoomed tail panel showing uncertainty from bootstrap fits and a confidence interval for VaR"></svg>
   <figcaption><b>Illustration.</b> Most outcomes sit in the bulk, but risk is decided in the far tail. Extreme value theory estimates the 1-in-100 loss (VaR 99%) and the average loss beyond it (expected shortfall), and quantifies how uncertain those estimates are.</figcaption>
 </figure>
-
+-->
 <h2 class="hp-h hp-reveal"><i class="fas fa-compass"></i> Research interests</h2>
 
 <p class="hp-reveal">My work lies at the intersection of stochastic processes, statistical modelling and machine learning. I am particularly interested in:</p>
